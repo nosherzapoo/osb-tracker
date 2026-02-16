@@ -93,7 +93,7 @@
         "handle": 797436934.05,
         "ggr": 84812544.42,
         "holdPct": 0.1064,
-        "taxRevenue": 30532516.0
+        "taxRevenue": 30532515.98
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -460,7 +460,6 @@
         "FanDuel",
         "Fanatics",
         "Others",
-        "Retail (Detroit)",
         "Rush Street Interactive"
       ],
       "sourceUrl": "https://www.michigan.gov/mgcb/detroit-casinos/resources/revenues-and-wagering-tax-information",
@@ -469,10 +468,10 @@
       "latestDate": "2025-12-01",
       "periodCount": 60,
       "latestData": {
-        "handle": 525171568.46,
-        "ggr": 85781299.31,
-        "holdPct": 0.1633,
-        "taxRevenue": 4292536.13
+        "handle": 512939192.3,
+        "ggr": 84022104.67,
+        "holdPct": 0.1638,
+        "taxRevenue": 4227536.66
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -627,7 +626,7 @@
       "dataPath": "data/mt/",
       "dateColumn": "Month",
       "latestDate": "2026-01-01",
-      "periodCount": 13,
+      "periodCount": 12,
       "latestData": {
         "handle": 7884294.0,
         "ggr": 648685.0,
@@ -718,5 +717,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-02-16T02:14:07Z"
+  "lastUpdated": "2026-02-16T11:48:48Z"
 }
