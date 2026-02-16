@@ -34,7 +34,8 @@
       "hasAnnotations": true,
       "hasSportsData": false,
       "sports": [],
-      "ggrDefinition": "Gross Gaming Revenue as reported per operator (Handle \u2212 Payouts); no promo deductions allowed"
+      "ggrDefinition": "Gross Gaming Revenue as reported per operator (Handle \u2212 Payouts); no promo deductions allowed",
+      "hasMonthlyData": true
     },
     {
       "code": "nj",
@@ -684,7 +685,38 @@
       "hasSportsData": false,
       "sports": [],
       "ggrDefinition": "Gross Gaming Revenue (Handle minus Cash and Non-Cash Payouts)"
+    },
+    {
+      "code": "de",
+      "name": "Delaware",
+      "abbreviation": "DE",
+      "taxRate": 0.5,
+      "taxRateNote": "~50% of net proceeds (State Share); before operating expenses",
+      "launchDate": "2018-06-01",
+      "frequency": "monthly",
+      "hasOperatorData": true,
+      "operators": [
+        "Bally's Dover",
+        "Delaware Park",
+        "Harrington",
+        "Retailers"
+      ],
+      "sourceUrl": "https://www.delottery.com/Sports-Lottery/Monthly-Net-Proceeds",
+      "dataPath": "data/de/",
+      "dateColumn": "Month",
+      "latestDate": "2026-01-01",
+      "periodCount": 89,
+      "latestData": {
+        "handle": 22205209.0,
+        "ggr": 2138721.0,
+        "holdPct": 0.0963,
+        "taxRevenue": 1224101.0
+      },
+      "hasAnnotations": false,
+      "hasSportsData": false,
+      "sports": [],
+      "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-02-16T00:57:22Z"
+  "lastUpdated": "2026-02-16T02:14:07Z"
 }

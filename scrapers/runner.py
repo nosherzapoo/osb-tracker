@@ -23,9 +23,10 @@ from .sd import SDScraper
 from .tn import TNScraper
 from .mt import MTScraper
 from .wy import WYScraper
+from .de import DEScraper
 
 DATA_DIR = Path("data")
-SCRAPERS = [NYScraper, NJScraper, PAScraper, ILScraper, OHScraper, AZScraper, COScraper, CTScraper, IAScraper, KYScraper, LAScraper, MEScraper, MAScraper, MIScraper, MSScraper, RIScraper, SDScraper, TNScraper, MTScraper, WYScraper]
+SCRAPERS = [NYScraper, NJScraper, PAScraper, ILScraper, OHScraper, AZScraper, COScraper, CTScraper, IAScraper, KYScraper, LAScraper, MEScraper, MAScraper, MIScraper, MSScraper, RIScraper, SDScraper, TNScraper, MTScraper, WYScraper, DEScraper]
 
 
 def run_all():

@@ -66,6 +66,7 @@ export const STATE_COLORS = {
   tn: "#ff8c00",
   mt: "#4a6741",
   wy: "#a0522d",
+  de: "#004b87",
 };
 
 export const STATE_COLORS_LIGHT = {
@@ -89,6 +90,7 @@ export const STATE_COLORS_LIGHT = {
   tn: "rgba(255, 140, 0, 0.15)",
   mt: "rgba(74, 103, 65, 0.15)",
   wy: "rgba(160, 82, 45, 0.15)",
+  de: "rgba(0, 75, 135, 0.15)",
 };
 
 export const SPORT_COLORS = {
