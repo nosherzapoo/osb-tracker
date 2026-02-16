@@ -1,0 +1,32 @@
+:root {
+  --bg: #0f1117;
+  --surface: #1a1d27;
+  --surface-hover: #22263a;
+  --border: #2a2e3e;
+  --text: #e4e6eb;
+  --text-secondary: #8b8fa3;
+  --text-muted: #5a5e72;
+  --accent: #4f8ff7;
+  --accent-hover: #3a7de6;
+  --green: #22c55e;
+  --red: #ef4444;
+  --yellow: #eab308;
+  --orange: #f97316;
+  --purple: #a855f7;
+
+  /* State colors */
+  --ny: #1a1a2e;
+  --nj: #0277bd;
+  --pa: #6a1b9a;
+  --il: #ff6b35;
+  --oh: #1b5e20;
+
+  --sidebar-width: 240px;
+  --sidebar-collapsed: 60px;
+  --header-height: 0px;
+  --radius: 8px;
+  --radius-sm: 4px;
+  --radius-lg: 12px;
+  --shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  --transition: 0.2s ease;
+}

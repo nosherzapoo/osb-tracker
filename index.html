@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NY Sports Betting Tracker</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@3"></script>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jspdf@2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/html2canvas@1"></script>
+</head>
+<body>
+    <header id="header">
+        <div class="header-top">
+            <h1>New York Mobile Sports Wagering Tracker</h1>
+            <span id="last-updated"></span>
+        </div>
+        <nav id="tab-bar">
+            <button class="tab active" data-tab="handle">1 Handle</button>
+            <button class="tab" data-tab="ggr">2 GGR</button>
+            <button class="tab" data-tab="hold">3 Hold %</button>
+            <button class="tab" data-tab="yoy-handle">4 YoY Handle</button>
+            <button class="tab" data-tab="yoy-ggr">5 YoY GGR</button>
+        </nav>
+        <div id="controls">
+            <div id="operator-toggles"></div>
+            <div id="filter-row">
+                <label>From <input type="date" id="date-from"></label>
+                <label>To <input type="date" id="date-to"></label>
+                <label class="checkbox-label">
+                    <input type="checkbox" id="toggle-annotations" checked>
+                    Events
+                </label>
+                <button id="btn-export" title="Export CSV (e)">Export</button>
+                <button id="btn-pdf" title="Generate PDF report">PDF Report</button>
+                <button id="btn-share" title="Copy permalink">Share</button>
+            </div>
+        </div>
+    </header>
+
+    <main id="main">
+        <section id="kpi-cards"></section>
+        <section id="chart-area">
+            <canvas id="main-chart"></canvas>
+        </section>
+        <section id="table-area">
+            <table id="detail-table"></table>
+        </section>
+    </main>
+
+    <aside id="sidebar">
+        <div class="sidebar-section" id="comparative-section">
+            <h3 class="sidebar-heading" data-toggle="comparative-content">State Comparison</h3>
+            <div id="comparative-content" class="collapsible"></div>
+        </div>
+        <div class="sidebar-section" id="tax-section">
+            <h3 class="sidebar-heading" data-toggle="tax-content">Tax Revenue (51% GGR)</h3>
+            <div id="tax-content" class="collapsible"></div>
+        </div>
+        <div class="sidebar-section">
+            <h3 class="sidebar-heading" data-toggle="promo-content">Promotional Credits</h3>
+            <div id="promo-content" class="collapsible">
+                <p class="sidebar-note">
+                    NY Gaming Commission reports do not separately disclose promotional credit
+                    spend. Reported GGR figures are <strong>net</strong> of promotional credits
+                    where applicable. Promo-adjusted GGR breakdowns are not available from this
+                    data source.
+                </p>
+            </div>
+        </div>
+    </aside>
+
+    <footer id="footer">
+        <span>Data: <a href="https://gaming.ny.gov/revenue-reports" target="_blank" rel="noopener">NY Gaming Commission</a></span>
+        <span class="shortcuts-hint">
+            <kbd>1</kbd>-<kbd>5</kbd> tabs
+            <kbd>j</kbd>/<kbd>k</kbd> operators
+            <kbd>e</kbd> export
+            <kbd>r</kbd> refresh
+            <kbd>?</kbd> help
+        </span>
+    </footer>
+
+    <div id="keyboard-modal" class="modal hidden">
+        <div class="modal-content">
+            <h2>Keyboard Shortcuts</h2>
+            <table class="shortcut-table">
+                <tr><td><kbd>1</kbd> - <kbd>5</kbd></td><td>Switch tabs</td></tr>
+                <tr><td><kbd>j</kbd></td><td>Next operator</td></tr>
+                <tr><td><kbd>k</kbd></td><td>Previous operator</td></tr>
+                <tr><td><kbd>a</kbd></td><td>Show all operators</td></tr>
+                <tr><td><kbd>e</kbd></td><td>Export current view as CSV</td></tr>
+                <tr><td><kbd>r</kbd></td><td>Refresh data</td></tr>
+                <tr><td><kbd>?</kbd></td><td>Toggle this help</td></tr>
+                <tr><td><kbd>Esc</kbd></td><td>Close modal</td></tr>
+            </table>
+            <button class="modal-close" id="close-modal">Close</button>
+        </div>
+    </div>
+
+    <div id="toast" class="toast hidden"></div>
+
+    <script src="js/utils.js"></script>
+    <script src="js/data-loader.js"></script>
+    <script src="js/annotations.js"></script>
+    <script src="js/tax-tracker.js"></script>
+    <script src="js/comparative.js"></script>
+    <script src="js/charts.js"></script>
+    <script src="js/pdf-report.js"></script>
+    <script src="js/permalink.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

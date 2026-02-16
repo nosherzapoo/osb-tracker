@@ -1,0 +1,124 @@
+{
+    "lastUpdated": "2026-02-11",
+    "annotations": [
+        {
+            "id": "ny-launch",
+            "type": "point",
+            "date": "2022-01-08",
+            "label": "NY Mobile Launch",
+            "category": "operator",
+            "color": "#2ecc71"
+        },
+        {
+            "id": "nfl-2022",
+            "type": "range",
+            "startDate": "2022-09-08",
+            "endDate": "2023-02-12",
+            "label": "NFL 2022-23",
+            "category": "season",
+            "color": "rgba(34, 139, 34, 0.08)"
+        },
+        {
+            "id": "superbowl-2023",
+            "type": "point",
+            "date": "2023-02-12",
+            "label": "Super Bowl LVII",
+            "category": "event",
+            "color": "#e74c3c"
+        },
+        {
+            "id": "march-madness-2023",
+            "type": "range",
+            "startDate": "2023-03-14",
+            "endDate": "2023-04-03",
+            "label": "March Madness 2023",
+            "category": "season",
+            "color": "rgba(255, 165, 0, 0.08)"
+        },
+        {
+            "id": "nfl-2023",
+            "type": "range",
+            "startDate": "2023-09-07",
+            "endDate": "2024-02-11",
+            "label": "NFL 2023-24",
+            "category": "season",
+            "color": "rgba(34, 139, 34, 0.08)"
+        },
+        {
+            "id": "wynn-espnbet-rebrand",
+            "type": "point",
+            "date": "2023-11-14",
+            "label": "WynnBET \u2192 ESPN BET",
+            "category": "operator",
+            "color": "#9b59b6"
+        },
+        {
+            "id": "superbowl-2024",
+            "type": "point",
+            "date": "2024-02-11",
+            "label": "Super Bowl LVIII",
+            "category": "event",
+            "color": "#e74c3c"
+        },
+        {
+            "id": "fanatics-launch",
+            "type": "point",
+            "date": "2024-01-24",
+            "label": "Fanatics Launch",
+            "category": "operator",
+            "color": "#9b59b6"
+        },
+        {
+            "id": "march-madness-2024",
+            "type": "range",
+            "startDate": "2024-03-19",
+            "endDate": "2024-04-08",
+            "label": "March Madness 2024",
+            "category": "season",
+            "color": "rgba(255, 165, 0, 0.08)"
+        },
+        {
+            "id": "nfl-2024",
+            "type": "range",
+            "startDate": "2024-09-05",
+            "endDate": "2025-02-09",
+            "label": "NFL 2024-25",
+            "category": "season",
+            "color": "rgba(34, 139, 34, 0.08)"
+        },
+        {
+            "id": "superbowl-2025",
+            "type": "point",
+            "date": "2025-02-09",
+            "label": "Super Bowl LIX",
+            "category": "event",
+            "color": "#e74c3c"
+        },
+        {
+            "id": "march-madness-2025",
+            "type": "range",
+            "startDate": "2025-03-18",
+            "endDate": "2025-04-07",
+            "label": "March Madness 2025",
+            "category": "season",
+            "color": "rgba(255, 165, 0, 0.08)"
+        },
+        {
+            "id": "nfl-2025",
+            "type": "range",
+            "startDate": "2025-09-04",
+            "endDate": "2026-02-08",
+            "label": "NFL 2025-26",
+            "category": "season",
+            "color": "rgba(34, 139, 34, 0.08)"
+        },
+        {
+            "id": "superbowl-2026",
+            "type": "point",
+            "date": "2026-02-08",
+            "label": "Super Bowl LX",
+            "category": "event",
+            "color": "#e74c3c"
+        }
+    ]
+}

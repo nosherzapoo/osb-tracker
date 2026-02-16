@@ -1,0 +1,11 @@
+.venv/
+downloads/
+ny_sports_betting_data.xlsx
+~$*.xlsx
+__pycache__/
+*.pyc
+.DS_Store
+frontend/node_modules/
+frontend/dist/
+.env
+.env.*

@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  gap: 4px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 3px;
+}
+
+.btn {
+  padding: 4px 12px;
+  border-radius: var(--radius-sm);
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  transition: all var(--transition);
+}
+
+.btn:hover {
+  color: var(--text);
+}
+
+.active {
+  background: var(--accent);
+  color: #fff;
+}

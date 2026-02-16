@@ -1,0 +1,82 @@
+{
+    "lastUpdated": "2026-02-01",
+    "source": "Publicly available state gaming commission reports",
+    "note": "NY figures are auto-computed from live data. Other state figures are approximate and updated periodically.",
+    "states": [
+        {
+            "state": "New York",
+            "abbreviation": "NY",
+            "taxRate": 0.51,
+            "launchDate": "2022-01-08",
+            "operators": 9,
+            "data": {
+                "latestMonth": "2026-01",
+                "monthlyHandle": null,
+                "monthlyGGR": null,
+                "monthlyTaxRevenue": null
+            },
+            "sourceUrl": "https://gaming.ny.gov/revenue-reports",
+            "note": "Computed from weekly data in real-time"
+        },
+        {
+            "state": "New Jersey",
+            "abbreviation": "NJ",
+            "taxRate": 0.13,
+            "launchDate": "2018-06-14",
+            "operators": 21,
+            "data": {
+                "latestMonth": "2025-12",
+                "monthlyHandle": 1350000000,
+                "monthlyGGR": 120000000,
+                "monthlyTaxRevenue": 15600000
+            },
+            "sourceUrl": "https://www.nj.gov/oag/ge/sportsbettingrevenueresults.html",
+            "note": "Online + retail combined"
+        },
+        {
+            "state": "Pennsylvania",
+            "abbreviation": "PA",
+            "taxRate": 0.36,
+            "launchDate": "2019-05-31",
+            "operators": 17,
+            "data": {
+                "latestMonth": "2025-12",
+                "monthlyHandle": 950000000,
+                "monthlyGGR": 85000000,
+                "monthlyTaxRevenue": 30600000
+            },
+            "sourceUrl": "https://gamingcontrolboard.pa.gov/reports-data/revenue-reports",
+            "note": "Online sports wagering only"
+        },
+        {
+            "state": "Illinois",
+            "abbreviation": "IL",
+            "taxRate": 0.15,
+            "launchDate": "2020-03-09",
+            "operators": 10,
+            "data": {
+                "latestMonth": "2025-12",
+                "monthlyHandle": 1100000000,
+                "monthlyGGR": 100000000,
+                "monthlyTaxRevenue": 15000000
+            },
+            "sourceUrl": "https://www.igb.illinois.gov/SportsReports.aspx",
+            "note": "Graduated tax rate; 15% shown as effective estimate"
+        },
+        {
+            "state": "Ohio",
+            "abbreviation": "OH",
+            "taxRate": 0.20,
+            "launchDate": "2023-01-01",
+            "operators": 19,
+            "data": {
+                "latestMonth": "2025-12",
+                "monthlyHandle": 800000000,
+                "monthlyGGR": 70000000,
+                "monthlyTaxRevenue": 14000000
+            },
+            "sourceUrl": "https://casinocontrol.ohio.gov/sportsgaming",
+            "note": "Mobile + retail combined"
+        }
+    ]
+}

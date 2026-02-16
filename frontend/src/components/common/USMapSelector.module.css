@@ -1,0 +1,68 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.map {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.state {
+  cursor: pointer;
+  transition: opacity var(--transition);
+}
+
+.state:hover .statePath {
+  fill-opacity: 0.7;
+  stroke-width: 3;
+}
+
+.stateLabel {
+  font-size: 14px;
+  font-weight: 700;
+  pointer-events: none;
+}
+
+.stateCards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 10px;
+}
+
+.stateCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  padding: 12px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-top: 3px solid;
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: all var(--transition);
+}
+
+.stateCard:hover {
+  background: var(--surface-hover);
+  transform: translateY(-2px);
+}
+
+.cardCode {
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+.cardName {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+.cardValue {
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin-top: 2px;
+}
