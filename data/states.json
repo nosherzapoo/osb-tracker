@@ -626,7 +626,7 @@
       "dataPath": "data/mt/",
       "dateColumn": "Month",
       "latestDate": "2026-01-01",
-      "periodCount": 12,
+      "periodCount": 13,
       "latestData": {
         "handle": 7884294.0,
         "ggr": 648685.0,
@@ -717,5 +717,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-02-16T11:48:48Z"
+  "lastUpdated": "2026-02-17T11:47:13Z"
 }
