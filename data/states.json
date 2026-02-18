@@ -247,13 +247,13 @@
       "sourceUrl": "https://data.ct.gov/Government/Selected-Online-Sport-Wagering-Data/xf6g-659c",
       "dataPath": "data/ct/",
       "dateColumn": "Month",
-      "latestDate": "2025-12-01",
-      "periodCount": 51,
+      "latestDate": "2026-01-01",
+      "periodCount": 52,
       "latestData": {
-        "handle": 227572278.0,
-        "ggr": 30189357.0,
-        "holdPct": 0.1327,
-        "taxRevenue": 4151036.59
+        "handle": 230011073.0,
+        "ggr": 24928696.0,
+        "holdPct": 0.1084,
+        "taxRevenue": 3427695.7
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -597,13 +597,13 @@
       "sourceUrl": "https://www.tn.gov/swac/reports.html",
       "dataPath": "data/tn/",
       "dateColumn": "Month",
-      "latestDate": "2025-12-01",
-      "periodCount": 62,
+      "latestDate": "2026-01-01",
+      "periodCount": 63,
       "latestData": {
-        "handle": 536157003.0,
+        "handle": 534585161.0,
         "ggr": null,
         "holdPct": null,
-        "taxRevenue": 9918905.0
+        "taxRevenue": 9889825.0
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -717,5 +717,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-02-17T11:47:13Z"
+  "lastUpdated": "2026-02-18T11:46:05Z"
 }
