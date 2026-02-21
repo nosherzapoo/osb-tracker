@@ -430,13 +430,13 @@
       "sourceUrl": "https://massgaming.com/regulations/revenue/",
       "dataPath": "data/ma/",
       "dateColumn": "Month",
-      "latestDate": "2025-12-01",
-      "periodCount": 36,
+      "latestDate": "2026-01-01",
+      "periodCount": 37,
       "latestData": {
-        "handle": 845267388.58,
-        "ggr": 102474989.14,
-        "holdPct": 0.1212,
-        "taxRevenue": 19627172.46
+        "handle": 808920463.77,
+        "ggr": 84391383.61,
+        "holdPct": 0.1043,
+        "taxRevenue": 16465125.98
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -717,5 +717,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-02-20T11:40:12Z"
+  "lastUpdated": "2026-02-21T11:30:18Z"
 }
