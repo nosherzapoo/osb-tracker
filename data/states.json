@@ -513,34 +513,6 @@
       "ggrDefinition": "Taxable Revenue (modified accrual basis; Write \u2212 Payouts)"
     },
     {
-      "code": "ri",
-      "name": "Rhode Island",
-      "abbreviation": "RI",
-      "taxRate": 0.51,
-      "taxRateNote": "51% of book revenue to state (lottery-operated)",
-      "launchDate": "2018-11-01",
-      "frequency": "monthly",
-      "hasOperatorData": false,
-      "operators": [
-        "total"
-      ],
-      "sourceUrl": "https://www.rilot.com/en-us/about-us/financials.html",
-      "dataPath": "data/ri/",
-      "dateColumn": "Month",
-      "latestDate": "2025-12-01",
-      "periodCount": 86,
-      "latestData": {
-        "handle": 38769862.0,
-        "ggr": 4628029.0,
-        "holdPct": 0.1194,
-        "taxRevenue": 2360294.79
-      },
-      "hasAnnotations": false,
-      "hasSportsData": false,
-      "sports": [],
-      "ggrDefinition": "Book Revenue (Write \u2212 Payouts)"
-    },
-    {
       "code": "sd",
       "name": "South Dakota",
       "abbreviation": "SD",
@@ -717,5 +689,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-02-21T11:30:18Z"
+  "lastUpdated": "2026-02-22T11:27:42Z"
 }
