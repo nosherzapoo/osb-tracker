@@ -175,18 +175,41 @@
       "taxRateNote": "8% retail, 10% mobile (blended ~10%)",
       "launchDate": "2021-09-09",
       "frequency": "monthly",
-      "hasOperatorData": false,
-      "operators": [],
+      "hasOperatorData": true,
+      "operators": [
+        "Bally Bet",
+        "Bet365",
+        "BetFred",
+        "BetMGM",
+        "Betway",
+        "Caesars",
+        "Desert Diamond",
+        "DraftKings",
+        "ESPN Bet",
+        "FanDuel",
+        "Fanatics",
+        "Fubo.TV",
+        "Golden Nugget",
+        "Plannatech",
+        "Rush Street Interactive",
+        "Sahara Bets",
+        "Seminole Hard Rock",
+        "Sporttrade",
+        "SuperBook",
+        "TwinSpires",
+        "Unibet",
+        "WynnBet"
+      ],
       "sourceUrl": "https://gaming.az.gov/resources/reports",
       "dataPath": "data/az/",
       "dateColumn": "Month",
-      "latestDate": "2025-11-01",
-      "periodCount": 23,
+      "latestDate": "2025-12-01",
+      "periodCount": 52,
       "latestData": {
-        "handle": 965233845.0,
-        "ggr": 80854981.0,
-        "holdPct": 0.0838,
-        "taxRevenue": 8085498.1
+        "handle": 822101252.13,
+        "ggr": 85435531.68,
+        "holdPct": 0.1039,
+        "taxRevenue": 8543553.17
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -555,13 +578,13 @@
       "sourceUrl": "https://dor.sd.gov/businesses/gaming/",
       "dataPath": "data/sd/",
       "dateColumn": "Month",
-      "latestDate": "2025-12-01",
-      "periodCount": 33,
+      "latestDate": "2026-01-01",
+      "periodCount": 34,
       "latestData": {
-        "handle": 1215596.31,
-        "ggr": 125590.96,
-        "holdPct": 0.1033,
-        "taxRevenue": 11303.19
+        "handle": 1079319.95,
+        "ggr": 36852.94,
+        "holdPct": 0.0341,
+        "taxRevenue": 3316.76
       },
       "hasAnnotations": false,
       "hasSportsData": true,
@@ -717,5 +740,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-02-23T11:47:08Z"
+  "lastUpdated": "2026-02-24T11:48:38Z"
 }
