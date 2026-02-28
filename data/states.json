@@ -23,13 +23,13 @@
       "sourceUrl": "https://gaming.ny.gov/revenue-reports",
       "dataPath": "data/ny/",
       "dateColumn": "Week Ending",
-      "latestDate": "2026-02-15",
-      "periodCount": 215,
+      "latestDate": "2026-02-22",
+      "periodCount": 216,
       "latestData": {
-        "handle": 459448032.8,
-        "ggr": 39799346.97,
-        "holdPct": 0.0866,
-        "taxRevenue": 20297666.95
+        "handle": 475323176.65,
+        "ggr": 42277988.52,
+        "holdPct": 0.0889,
+        "taxRevenue": 21561774.15
       },
       "hasAnnotations": true,
       "hasSportsData": false,
@@ -306,43 +306,6 @@
       "ggrDefinition": "Sports Wagering Net Receipts (Handle \u2212 Payouts)"
     },
     {
-      "code": "ky",
-      "name": "Kentucky",
-      "abbreviation": "KY",
-      "taxRate": 0.1425,
-      "taxRateNote": "14.25% online, 9.75% retail on AGR",
-      "launchDate": "2023-09-28",
-      "frequency": "monthly",
-      "hasOperatorData": true,
-      "operators": [
-        "Bet365",
-        "BetMGM",
-        "Caesars",
-        "Circa Sports",
-        "DraftKings",
-        "ESPN Bet",
-        "FanDuel",
-        "Fanatics",
-        "Prime",
-        "Retail (All Properties)"
-      ],
-      "sourceUrl": "https://khrc.ky.gov/newstatic_info.aspx?static_ID=694",
-      "dataPath": "data/ky/",
-      "dateColumn": "Month",
-      "latestDate": "2025-12-01",
-      "periodCount": 28,
-      "latestData": {
-        "handle": 282920566.0,
-        "ggr": 38789030.0,
-        "holdPct": 0.1371,
-        "taxRevenue": 5527436.78
-      },
-      "hasAnnotations": false,
-      "hasSportsData": false,
-      "sports": [],
-      "ggrDefinition": "Handle \u2212 Winnings (Wagers less payouts to players)"
-    },
-    {
       "code": "la",
       "name": "Louisiana",
       "abbreviation": "LA",
@@ -527,13 +490,13 @@
       "sourceUrl": "https://www.rilot.com/en-us/about-us/financials.html",
       "dataPath": "data/ri/",
       "dateColumn": "Month",
-      "latestDate": "2025-06-01",
-      "periodCount": 80,
+      "latestDate": "2026-01-01",
+      "periodCount": 87,
       "latestData": {
-        "handle": 27317451.0,
-        "ggr": 3167345.0,
-        "holdPct": 0.1159,
-        "taxRevenue": 1615345.95
+        "handle": 40721129.0,
+        "ggr": 3428425.0,
+        "holdPct": 0.0842,
+        "taxRevenue": 1748496.75
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -717,5 +680,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-02-27T11:39:48Z"
+  "lastUpdated": "2026-02-28T11:25:25Z"
 }
