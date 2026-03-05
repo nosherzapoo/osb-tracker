@@ -206,28 +206,17 @@
       "sourceUrl": "https://sbg.colorado.gov/sports-betting-monthly-reports",
       "dataPath": "data/co/",
       "dateColumn": "Month",
-      "latestDate": "2022-09-01",
-      "periodCount": 27,
+      "latestDate": "2025-12-01",
+      "periodCount": 68,
       "latestData": {
-        "handle": 398892937.72,
-        "ggr": 51339659.25,
-        "holdPct": 0.1287,
-        "taxRevenue": 5133965.93
+        "handle": 618385974.0,
+        "ggr": 59583229.0,
+        "holdPct": 0.0964,
+        "taxRevenue": 5958322.9
       },
       "hasAnnotations": false,
-      "hasSportsData": true,
-      "sports": [
-        "Golf",
-        "MLB",
-        "MMA",
-        "NBA",
-        "NCAAF",
-        "NFL",
-        "Soccer",
-        "Table Tennis",
-        "Tennis",
-        "Volleyball"
-      ],
+      "hasSportsData": false,
+      "sports": [],
       "ggrDefinition": "Total GGR from SBG monthly reports (Handle \u2212 Payouts)"
     },
     {
@@ -680,5 +669,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-03-04T11:36:37Z"
+  "lastUpdated": "2026-03-05T11:36:16Z"
 }
