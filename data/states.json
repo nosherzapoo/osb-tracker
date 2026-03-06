@@ -23,13 +23,13 @@
       "sourceUrl": "https://gaming.ny.gov/revenue-reports",
       "dataPath": "data/ny/",
       "dateColumn": "Week Ending",
-      "latestDate": "2026-02-22",
-      "periodCount": 216,
+      "latestDate": "2026-03-01",
+      "periodCount": 217,
       "latestData": {
-        "handle": 475323176.65,
-        "ggr": 42277988.52,
-        "holdPct": 0.0889,
-        "taxRevenue": 21561774.15
+        "handle": 494613280.26,
+        "ggr": 44421129.52,
+        "holdPct": 0.0898,
+        "taxRevenue": 22654776.06
       },
       "hasAnnotations": true,
       "hasSportsData": false,
@@ -493,48 +493,6 @@
       "ggrDefinition": "Book Revenue (Write \u2212 Payouts)"
     },
     {
-      "code": "sd",
-      "name": "South Dakota",
-      "abbreviation": "SD",
-      "taxRate": 0.09,
-      "taxRateNote": "9% on adjusted gross revenue (all gaming combined)",
-      "launchDate": "2021-09-01",
-      "frequency": "monthly",
-      "hasOperatorData": false,
-      "operators": [
-        "total"
-      ],
-      "sourceUrl": "https://dor.sd.gov/businesses/gaming/",
-      "dataPath": "data/sd/",
-      "dateColumn": "Month",
-      "latestDate": "2026-01-01",
-      "periodCount": 34,
-      "latestData": {
-        "handle": 1079319.95,
-        "ggr": 36852.94,
-        "holdPct": 0.0341,
-        "taxRevenue": 3316.76
-      },
-      "hasAnnotations": false,
-      "hasSportsData": true,
-      "sports": [
-        "Boxing",
-        "Golf",
-        "MLB",
-        "MMA",
-        "Motorsports",
-        "NBA",
-        "NCAAB",
-        "NCAAF",
-        "NFL",
-        "NHL",
-        "Olympics",
-        "Soccer",
-        "Tennis"
-      ],
-      "ggrDefinition": "Statistical Win (Handle \u2212 Payouts)"
-    },
-    {
       "code": "tn",
       "name": "Tennessee",
       "abbreviation": "TN",
@@ -669,5 +627,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-03-05T11:36:16Z"
+  "lastUpdated": "2026-03-06T11:31:34Z"
 }
