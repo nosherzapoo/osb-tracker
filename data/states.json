@@ -236,13 +236,13 @@
       "sourceUrl": "https://data.ct.gov/Government/Selected-Online-Sport-Wagering-Data/xf6g-659c",
       "dataPath": "data/ct/",
       "dateColumn": "Month",
-      "latestDate": "2026-01-01",
-      "periodCount": 52,
+      "latestDate": "2026-02-01",
+      "periodCount": 53,
       "latestData": {
-        "handle": 230011073.0,
-        "ggr": 24928696.0,
-        "holdPct": 0.1084,
-        "taxRevenue": 3427695.7
+        "handle": 181189543.0,
+        "ggr": 17839628.0,
+        "holdPct": 0.0985,
+        "taxRevenue": 2452948.85
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -307,13 +307,13 @@
       "sourceUrl": "https://lsp.org/about/leadershipsections/bureau-of-investigations/gaming-enforcement-division/gaming-revenue-reports/",
       "dataPath": "data/la/",
       "dateColumn": "Month",
-      "latestDate": "2026-01-01",
-      "periodCount": 52,
+      "latestDate": "2026-02-01",
+      "periodCount": 53,
       "latestData": {
-        "handle": 381683705.41,
-        "ggr": 43745027.34,
-        "holdPct": 0.1146,
-        "taxRevenue": 6561754.1
+        "handle": 304951146.25,
+        "ggr": 32237253.13,
+        "holdPct": 0.1057,
+        "taxRevenue": 4835587.97
       },
       "hasAnnotations": false,
       "hasSportsData": true,
@@ -549,13 +549,13 @@
       "sourceUrl": "https://www.tn.gov/swac/reports.html",
       "dataPath": "data/tn/",
       "dateColumn": "Month",
-      "latestDate": "2026-01-01",
-      "periodCount": 63,
+      "latestDate": "2026-02-01",
+      "periodCount": 64,
       "latestData": {
-        "handle": 534585161.0,
+        "handle": 460000038.0,
         "ggr": null,
         "holdPct": null,
-        "taxRevenue": 9889825.0
+        "taxRevenue": 8510001.0
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -669,5 +669,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-03-16T11:49:42Z"
+  "lastUpdated": "2026-03-17T11:46:30Z"
 }
