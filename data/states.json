@@ -17,7 +17,6 @@
         "ESPN Bet",
         "FanDuel",
         "Fanatics",
-        "Resorts World Bet",
         "Rush Street Interactive"
       ],
       "sourceUrl": "https://gaming.ny.gov/revenue-reports",
@@ -669,5 +668,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-03-31T11:50:32Z"
+  "lastUpdated": "2026-04-01T11:57:04Z"
 }
