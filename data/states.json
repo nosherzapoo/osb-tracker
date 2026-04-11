@@ -174,41 +174,18 @@
       "taxRateNote": "8% retail, 10% mobile (blended ~10%)",
       "launchDate": "2021-09-09",
       "frequency": "monthly",
-      "hasOperatorData": true,
-      "operators": [
-        "Bally Bet",
-        "Bet365",
-        "BetFred",
-        "BetMGM",
-        "Betway",
-        "Caesars",
-        "Desert Diamond",
-        "DraftKings",
-        "ESPN Bet",
-        "FanDuel",
-        "Fanatics",
-        "Fubo.TV",
-        "Golden Nugget",
-        "Plannatech",
-        "Rush Street Interactive",
-        "Sahara Bets",
-        "Seminole Hard Rock",
-        "Sporttrade",
-        "SuperBook",
-        "TwinSpires",
-        "Unibet",
-        "WynnBet"
-      ],
+      "hasOperatorData": false,
+      "operators": [],
       "sourceUrl": "https://gaming.az.gov/resources/reports",
       "dataPath": "data/az/",
       "dateColumn": "Month",
-      "latestDate": "2025-12-01",
-      "periodCount": 52,
+      "latestDate": "2025-11-01",
+      "periodCount": 23,
       "latestData": {
-        "handle": 822101252.13,
-        "ggr": 85435531.68,
-        "holdPct": 0.1039,
-        "taxRevenue": 8543553.17
+        "handle": 965233845.0,
+        "ggr": 80854981.0,
+        "holdPct": 0.0838,
+        "taxRevenue": 8085498.1
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -303,13 +280,13 @@
       "sourceUrl": "https://irgc.iowa.gov/publications-reports/sports-wagering-revenue",
       "dataPath": "data/ia/",
       "dateColumn": "Month",
-      "latestDate": "2026-02-01",
-      "periodCount": 79,
+      "latestDate": "2026-03-01",
+      "periodCount": 80,
       "latestData": {
-        "handle": 213646502.87,
-        "ggr": 19821140.9,
-        "holdPct": 0.0928,
-        "taxRevenue": 1337927.01
+        "handle": 268229152.34,
+        "ggr": 24565321.0,
+        "holdPct": 0.0916,
+        "taxRevenue": 1658159.17
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -691,5 +668,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-04-10T11:51:59Z"
+  "lastUpdated": "2026-04-11T11:32:29Z"
 }
