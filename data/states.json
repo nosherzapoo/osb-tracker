@@ -467,13 +467,13 @@
       "sourceUrl": "https://www.msgamingcommission.com/reports/monthly_reports",
       "dataPath": "data/ms/",
       "dateColumn": "Month",
-      "latestDate": "2026-02-01",
-      "periodCount": 87,
+      "latestDate": "2026-03-01",
+      "periodCount": 88,
       "latestData": {
-        "handle": 21010073.89,
-        "ggr": 3454405.24,
-        "holdPct": 0.1644,
-        "taxRevenue": 414528.63
+        "handle": 25721106.04,
+        "ggr": 3583486.68,
+        "holdPct": 0.1393,
+        "taxRevenue": 430018.4
       },
       "hasAnnotations": false,
       "hasSportsData": true,
@@ -647,7 +647,7 @@
       "dataPath": "data/wy/",
       "dateColumn": "Month",
       "latestDate": "2025-12-01",
-      "periodCount": 35,
+      "periodCount": 36,
       "latestData": {
         "handle": 22414137.5,
         "ggr": 3325440.7,
@@ -691,5 +691,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-04-16T12:03:28Z"
+  "lastUpdated": "2026-04-17T11:56:54Z"
 }
