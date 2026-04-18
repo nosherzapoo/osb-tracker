@@ -22,13 +22,13 @@
       "sourceUrl": "https://gaming.ny.gov/revenue-reports",
       "dataPath": "data/ny/",
       "dateColumn": "Week Ending",
-      "latestDate": "2026-04-05",
-      "periodCount": 222,
+      "latestDate": "2026-04-12",
+      "periodCount": 223,
       "latestData": {
-        "handle": 511436487.83,
-        "ggr": 57754121.94,
-        "holdPct": 0.1129,
-        "taxRevenue": 29454602.19
+        "handle": 492052693.98,
+        "ggr": 54411475.43,
+        "holdPct": 0.1106,
+        "taxRevenue": 27749852.47
       },
       "hasAnnotations": true,
       "hasSportsData": false,
@@ -86,13 +86,13 @@
       "sourceUrl": "https://gamingcontrolboard.pa.gov/news-and-transparency/revenue",
       "dataPath": "data/pa/",
       "dateColumn": "Month",
-      "latestDate": "2026-02-01",
-      "periodCount": 88,
+      "latestDate": "2026-03-01",
+      "periodCount": 89,
       "latestData": {
-        "handle": 592462453.9,
-        "ggr": 37844313.32,
-        "holdPct": 0.0639,
-        "taxRevenue": 13623952.83
+        "handle": 730853608.61,
+        "ggr": 47855880.55,
+        "holdPct": 0.0655,
+        "taxRevenue": 17228116.98
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -205,10 +205,10 @@
       "latestDate": "2026-02-01",
       "periodCount": 54,
       "latestData": {
-        "handle": 760440371.72,
-        "ggr": 60460769.91,
-        "holdPct": 0.0795,
-        "taxRevenue": 6046076.99
+        "handle": 722637020.95,
+        "ggr": 58172480.84,
+        "holdPct": 0.0805,
+        "taxRevenue": 5817248.08
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -677,13 +677,13 @@
       "sourceUrl": "https://www.delottery.com/Sports-Lottery/Monthly-Net-Proceeds",
       "dataPath": "data/de/",
       "dateColumn": "Month",
-      "latestDate": "2026-02-01",
-      "periodCount": 90,
+      "latestDate": "2026-03-01",
+      "periodCount": 91,
       "latestData": {
-        "handle": 16954305.0,
-        "ggr": 1311520.0,
-        "holdPct": 0.0774,
-        "taxRevenue": 676325.0
+        "handle": 19212472.0,
+        "ggr": 1590682.0,
+        "holdPct": 0.0828,
+        "taxRevenue": 858850.0
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -691,5 +691,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-04-17T11:56:54Z"
+  "lastUpdated": "2026-04-18T11:38:44Z"
 }
