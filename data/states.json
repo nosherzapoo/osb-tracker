@@ -317,39 +317,6 @@
       "ggrDefinition": "Sports Wagering Net Receipts (Handle \u2212 Payouts)"
     },
     {
-      "code": "la",
-      "name": "Louisiana",
-      "abbreviation": "LA",
-      "taxRate": 0.15,
-      "taxRateNote": "15% mobile, 10% retail on net proceeds",
-      "launchDate": "2021-10-31",
-      "frequency": "monthly",
-      "hasOperatorData": false,
-      "operators": [],
-      "sourceUrl": "https://lsp.org/about/leadershipsections/bureau-of-investigations/gaming-enforcement-division/gaming-revenue-reports/",
-      "dataPath": "data/la/",
-      "dateColumn": "Month",
-      "latestDate": "2026-02-01",
-      "periodCount": 53,
-      "latestData": {
-        "handle": 304951146.25,
-        "ggr": 32237253.13,
-        "holdPct": 0.1057,
-        "taxRevenue": 4835587.97
-      },
-      "hasAnnotations": false,
-      "hasSportsData": true,
-      "sports": [
-        "Baseball",
-        "Basketball",
-        "Football",
-        "Other",
-        "Parlay",
-        "Soccer"
-      ],
-      "ggrDefinition": "Net Proceeds (Handle \u2212 Payouts to bettors)"
-    },
-    {
       "code": "me",
       "name": "Maine",
       "abbreviation": "ME",
@@ -439,13 +406,13 @@
       "sourceUrl": "https://www.michigan.gov/mgcb/detroit-casinos/resources/revenues-and-wagering-tax-information",
       "dataPath": "data/mi/",
       "dateColumn": "Month",
-      "latestDate": "2026-02-01",
-      "periodCount": 62,
+      "latestDate": "2026-03-01",
+      "periodCount": 63,
       "latestData": {
-        "handle": 384665361.0,
-        "ggr": 39862028.42,
-        "holdPct": 0.1036,
-        "taxRevenue": 1739790.23
+        "handle": 485132453.51,
+        "ggr": 50020977.25,
+        "holdPct": 0.1031,
+        "taxRevenue": 2287533.26
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -691,5 +658,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-04-20T12:07:18Z"
+  "lastUpdated": "2026-04-21T12:04:16Z"
 }
