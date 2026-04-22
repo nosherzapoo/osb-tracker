@@ -174,41 +174,18 @@
       "taxRateNote": "8% retail, 10% mobile (blended ~10%)",
       "launchDate": "2021-09-09",
       "frequency": "monthly",
-      "hasOperatorData": true,
-      "operators": [
-        "Bally Bet",
-        "Bet365",
-        "BetFred",
-        "BetMGM",
-        "Betway",
-        "Caesars",
-        "Desert Diamond",
-        "DraftKings",
-        "ESPN Bet",
-        "FanDuel",
-        "Fanatics",
-        "Fubo.TV",
-        "Golden Nugget",
-        "Plannatech",
-        "Rush Street Interactive",
-        "Sahara Bets",
-        "Seminole Hard Rock",
-        "Sporttrade",
-        "SuperBook",
-        "TwinSpires",
-        "Unibet",
-        "WynnBet"
-      ],
+      "hasOperatorData": false,
+      "operators": [],
       "sourceUrl": "https://gaming.az.gov/resources/reports",
       "dataPath": "data/az/",
       "dateColumn": "Month",
-      "latestDate": "2026-02-01",
-      "periodCount": 54,
+      "latestDate": "2025-11-01",
+      "periodCount": 23,
       "latestData": {
-        "handle": 722637020.95,
-        "ggr": 58172480.84,
-        "holdPct": 0.0805,
-        "taxRevenue": 5817248.08
+        "handle": 965233845.0,
+        "ggr": 80854981.0,
+        "holdPct": 0.0838,
+        "taxRevenue": 8085498.1
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -361,7 +338,6 @@
         "BetMGM",
         "Caesars",
         "DraftKings",
-        "Encore Boston Harbor",
         "FanDuel",
         "Fanatics",
         "MGM Springfield",
@@ -371,13 +347,13 @@
       "sourceUrl": "https://massgaming.com/regulations/revenue/",
       "dataPath": "data/ma/",
       "dateColumn": "Month",
-      "latestDate": "2026-02-01",
-      "periodCount": 38,
+      "latestDate": "2026-03-01",
+      "periodCount": 39,
       "latestData": {
-        "handle": 619905413.54,
-        "ggr": 77627604.7,
-        "holdPct": 0.1252,
-        "taxRevenue": 15178315.02
+        "handle": 675506848.69,
+        "ggr": 65177187.05,
+        "holdPct": 0.0965,
+        "taxRevenue": 12683720.28
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -468,13 +444,13 @@
       "sourceUrl": "https://www.rilot.com/en-us/about-us/financials.html",
       "dataPath": "data/ri/",
       "dateColumn": "Month",
-      "latestDate": "2026-02-01",
-      "periodCount": 88,
+      "latestDate": "2025-11-01",
+      "periodCount": 61,
       "latestData": {
-        "handle": 30330898.0,
-        "ggr": 3941692.0,
-        "holdPct": 0.13,
-        "taxRevenue": 2010262.92
+        "handle": 47073707.0,
+        "ggr": 5940363.0,
+        "holdPct": 0.1262,
+        "taxRevenue": 3029585.13
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -538,13 +514,13 @@
       "sourceUrl": "https://www.tn.gov/swac/reports.html",
       "dataPath": "data/tn/",
       "dateColumn": "Month",
-      "latestDate": "2026-02-01",
-      "periodCount": 64,
+      "latestDate": "2026-03-01",
+      "periodCount": 65,
       "latestData": {
-        "handle": 460000038.0,
+        "handle": 559556359.0,
         "ggr": null,
         "holdPct": null,
-        "taxRevenue": 8510001.0
+        "taxRevenue": 10351793.0
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -658,5 +634,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-04-21T12:04:16Z"
+  "lastUpdated": "2026-04-22T12:03:44Z"
 }
