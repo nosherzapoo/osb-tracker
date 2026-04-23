@@ -174,18 +174,41 @@
       "taxRateNote": "8% retail, 10% mobile (blended ~10%)",
       "launchDate": "2021-09-09",
       "frequency": "monthly",
-      "hasOperatorData": false,
-      "operators": [],
+      "hasOperatorData": true,
+      "operators": [
+        "Bally Bet",
+        "Bet365",
+        "BetFred",
+        "BetMGM",
+        "Betway",
+        "Caesars",
+        "Desert Diamond",
+        "DraftKings",
+        "ESPN Bet",
+        "FanDuel",
+        "Fanatics",
+        "Fubo.TV",
+        "Golden Nugget",
+        "Plannatech",
+        "Rush Street Interactive",
+        "Sahara Bets",
+        "Seminole Hard Rock",
+        "Sporttrade",
+        "SuperBook",
+        "TwinSpires",
+        "Unibet",
+        "WynnBet"
+      ],
       "sourceUrl": "https://gaming.az.gov/resources/reports",
       "dataPath": "data/az/",
       "dateColumn": "Month",
-      "latestDate": "2025-11-01",
-      "periodCount": 23,
+      "latestDate": "2026-02-01",
+      "periodCount": 54,
       "latestData": {
-        "handle": 965233845.0,
-        "ggr": 80854981.0,
-        "holdPct": 0.0838,
-        "taxRevenue": 8085498.1
+        "handle": 722637020.95,
+        "ggr": 58172480.84,
+        "holdPct": 0.0805,
+        "taxRevenue": 5817248.08
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -338,6 +361,7 @@
         "BetMGM",
         "Caesars",
         "DraftKings",
+        "Encore Boston Harbor",
         "FanDuel",
         "Fanatics",
         "MGM Springfield",
@@ -350,10 +374,10 @@
       "latestDate": "2026-03-01",
       "periodCount": 39,
       "latestData": {
-        "handle": 675506848.69,
-        "ggr": 65177187.05,
-        "holdPct": 0.0965,
-        "taxRevenue": 12683720.28
+        "handle": 679776819.69,
+        "ggr": 65472073.05,
+        "holdPct": 0.0963,
+        "taxRevenue": 12726352.28
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -634,5 +658,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-04-22T12:03:44Z"
+  "lastUpdated": "2026-04-23T12:04:15Z"
 }
