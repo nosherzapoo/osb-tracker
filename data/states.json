@@ -468,13 +468,13 @@
       "sourceUrl": "https://www.rilot.com/en-us/about-us/financials.html",
       "dataPath": "data/ri/",
       "dateColumn": "Month",
-      "latestDate": "2025-11-01",
-      "periodCount": 61,
+      "latestDate": "2026-02-01",
+      "periodCount": 64,
       "latestData": {
-        "handle": 47073707.0,
-        "ggr": 5940363.0,
-        "holdPct": 0.1262,
-        "taxRevenue": 3029585.13
+        "handle": 30330898.0,
+        "ggr": 3941692.0,
+        "holdPct": 0.13,
+        "taxRevenue": 2010262.92
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -658,5 +658,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-04-23T12:04:15Z"
+  "lastUpdated": "2026-04-24T12:02:34Z"
 }
