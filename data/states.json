@@ -22,13 +22,13 @@
       "sourceUrl": "https://gaming.ny.gov/revenue-reports",
       "dataPath": "data/ny/",
       "dateColumn": "Week Ending",
-      "latestDate": "2026-04-12",
-      "periodCount": 223,
+      "latestDate": "2026-04-19",
+      "periodCount": 224,
       "latestData": {
-        "handle": 492052693.98,
-        "ggr": 54411475.43,
-        "holdPct": 0.1106,
-        "taxRevenue": 27749852.47
+        "handle": 484512032.22,
+        "ggr": 54247991.61,
+        "holdPct": 0.112,
+        "taxRevenue": 27666475.72
       },
       "hasAnnotations": true,
       "hasSportsData": false,
@@ -174,41 +174,18 @@
       "taxRateNote": "8% retail, 10% mobile (blended ~10%)",
       "launchDate": "2021-09-09",
       "frequency": "monthly",
-      "hasOperatorData": true,
-      "operators": [
-        "Bally Bet",
-        "Bet365",
-        "BetFred",
-        "BetMGM",
-        "Betway",
-        "Caesars",
-        "Desert Diamond",
-        "DraftKings",
-        "ESPN Bet",
-        "FanDuel",
-        "Fanatics",
-        "Fubo.TV",
-        "Golden Nugget",
-        "Plannatech",
-        "Rush Street Interactive",
-        "Sahara Bets",
-        "Seminole Hard Rock",
-        "Sporttrade",
-        "SuperBook",
-        "TwinSpires",
-        "Unibet",
-        "WynnBet"
-      ],
+      "hasOperatorData": false,
+      "operators": [],
       "sourceUrl": "https://gaming.az.gov/resources/reports",
       "dataPath": "data/az/",
       "dateColumn": "Month",
-      "latestDate": "2026-02-01",
-      "periodCount": 54,
+      "latestDate": "2025-11-01",
+      "periodCount": 23,
       "latestData": {
-        "handle": 722637020.95,
-        "ggr": 58172480.84,
-        "holdPct": 0.0805,
-        "taxRevenue": 5817248.08
+        "handle": 965233845.0,
+        "ggr": 80854981.0,
+        "holdPct": 0.0838,
+        "taxRevenue": 8085498.1
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -496,13 +473,13 @@
       "sourceUrl": "https://dor.sd.gov/businesses/gaming/",
       "dataPath": "data/sd/",
       "dateColumn": "Month",
-      "latestDate": "2026-02-01",
-      "periodCount": 35,
+      "latestDate": "2026-03-01",
+      "periodCount": 36,
       "latestData": {
-        "handle": 753317.23,
-        "ggr": 2454.86,
-        "holdPct": 0.0033,
-        "taxRevenue": 220.94
+        "handle": 1629620.4,
+        "ggr": 155779.88,
+        "holdPct": 0.0956,
+        "taxRevenue": 14020.19
       },
       "hasAnnotations": false,
       "hasSportsData": true,
@@ -658,5 +635,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-04-24T12:02:34Z"
+  "lastUpdated": "2026-04-25T11:40:38Z"
 }
