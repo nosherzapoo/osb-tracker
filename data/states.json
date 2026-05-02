@@ -22,13 +22,13 @@
       "sourceUrl": "https://gaming.ny.gov/revenue-reports",
       "dataPath": "data/ny/",
       "dateColumn": "Week Ending",
-      "latestDate": "2026-04-19",
-      "periodCount": 224,
+      "latestDate": "2026-04-26",
+      "periodCount": 225,
       "latestData": {
-        "handle": 484512032.22,
-        "ggr": 54247991.61,
-        "holdPct": 0.112,
-        "taxRevenue": 27666475.72
+        "handle": 486672107.52,
+        "ggr": 54671951.56,
+        "holdPct": 0.1123,
+        "taxRevenue": 27882695.29
       },
       "hasAnnotations": true,
       "hasSportsData": false,
@@ -174,18 +174,41 @@
       "taxRateNote": "8% retail, 10% mobile (blended ~10%)",
       "launchDate": "2021-09-09",
       "frequency": "monthly",
-      "hasOperatorData": false,
-      "operators": [],
+      "hasOperatorData": true,
+      "operators": [
+        "Bally Bet",
+        "Bet365",
+        "BetFred",
+        "BetMGM",
+        "Betway",
+        "Caesars",
+        "Desert Diamond",
+        "DraftKings",
+        "ESPN Bet",
+        "FanDuel",
+        "Fanatics",
+        "Fubo.TV",
+        "Golden Nugget",
+        "Plannatech",
+        "Rush Street Interactive",
+        "Sahara Bets",
+        "Seminole Hard Rock",
+        "Sporttrade",
+        "SuperBook",
+        "TwinSpires",
+        "Unibet",
+        "WynnBet"
+      ],
       "sourceUrl": "https://gaming.az.gov/resources/reports",
       "dataPath": "data/az/",
       "dateColumn": "Month",
-      "latestDate": "2025-11-01",
-      "periodCount": 23,
+      "latestDate": "2026-02-01",
+      "periodCount": 54,
       "latestData": {
-        "handle": 965233845.0,
-        "ggr": 80854981.0,
-        "holdPct": 0.0838,
-        "taxRevenue": 8085498.1
+        "handle": 722637020.95,
+        "ggr": 58172480.84,
+        "holdPct": 0.0805,
+        "taxRevenue": 5817248.08
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -635,5 +658,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-05-01T12:02:39Z"
+  "lastUpdated": "2026-05-02T11:48:01Z"
 }
