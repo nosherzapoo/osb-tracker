@@ -202,13 +202,13 @@
       "sourceUrl": "https://gaming.az.gov/resources/reports",
       "dataPath": "data/az/",
       "dateColumn": "Month",
-      "latestDate": "2026-02-01",
-      "periodCount": 54,
+      "latestDate": "2026-03-01",
+      "periodCount": 55,
       "latestData": {
-        "handle": 722637020.95,
-        "ggr": 58172480.84,
-        "holdPct": 0.0805,
-        "taxRevenue": 5817248.08
+        "handle": 836854391.84,
+        "ggr": 70852793.25,
+        "holdPct": 0.0847,
+        "taxRevenue": 7085279.32
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -658,5 +658,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-05-13T13:15:01Z"
+  "lastUpdated": "2026-05-14T12:29:35Z"
 }
