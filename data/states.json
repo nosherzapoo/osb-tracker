@@ -294,6 +294,39 @@
       "ggrDefinition": "Sports Wagering Net Receipts (Handle \u2212 Payouts)"
     },
     {
+      "code": "la",
+      "name": "Louisiana",
+      "abbreviation": "LA",
+      "taxRate": 0.15,
+      "taxRateNote": "15% mobile, 10% retail on net proceeds",
+      "launchDate": "2021-10-31",
+      "frequency": "monthly",
+      "hasOperatorData": false,
+      "operators": [],
+      "sourceUrl": "https://lsp.org/about/leadershipsections/bureau-of-investigations/gaming-enforcement-division/gaming-revenue-reports/",
+      "dataPath": "data/la/",
+      "dateColumn": "Month",
+      "latestDate": "2026-04-01",
+      "periodCount": 55,
+      "latestData": {
+        "handle": 338029015.75,
+        "ggr": 45526151.51,
+        "holdPct": 0.1347,
+        "taxRevenue": 6828922.73
+      },
+      "hasAnnotations": false,
+      "hasSportsData": true,
+      "sports": [
+        "Baseball",
+        "Basketball",
+        "Football",
+        "Other",
+        "Parlay",
+        "Soccer"
+      ],
+      "ggrDefinition": "Net Proceeds (Handle \u2212 Payouts to bettors)"
+    },
+    {
       "code": "me",
       "name": "Maine",
       "abbreviation": "ME",
@@ -311,13 +344,13 @@
       "sourceUrl": "https://www.maine.gov/dps/gcu/sports-wagering/sports-wagering-revenue",
       "dataPath": "data/me/",
       "dateColumn": "Month",
-      "latestDate": "2026-04-01",
-      "periodCount": 29,
+      "latestDate": "2026-05-01",
+      "periodCount": 30,
       "latestData": {
-        "handle": 155682600.59,
-        "ggr": 18370755.65,
-        "holdPct": 0.118,
-        "taxRevenue": 1799011.04
+        "handle": 202249404.99,
+        "ggr": 23814107.13,
+        "holdPct": 0.1177,
+        "taxRevenue": 2331981.41
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -635,5 +668,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-05-18T14:32:48Z"
+  "lastUpdated": "2026-05-19T13:58:52Z"
 }
