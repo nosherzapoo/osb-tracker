@@ -17,6 +17,7 @@
         "ESPN Bet",
         "FanDuel",
         "Fanatics",
+        "Resorts World Bet",
         "Rush Street Interactive"
       ],
       "sourceUrl": "https://gaming.ny.gov/revenue-reports",
@@ -86,13 +87,13 @@
       "sourceUrl": "https://gamingcontrolboard.pa.gov/news-and-transparency/revenue",
       "dataPath": "data/pa/",
       "dateColumn": "Month",
-      "latestDate": "2026-03-01",
-      "periodCount": 89,
+      "latestDate": "2026-04-01",
+      "periodCount": 90,
       "latestData": {
-        "handle": 730853608.61,
-        "ggr": 47855880.55,
-        "holdPct": 0.0655,
-        "taxRevenue": 17228116.98
+        "handle": 641566629.92,
+        "ggr": 58953160.25,
+        "holdPct": 0.0919,
+        "taxRevenue": 21223137.71
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -416,13 +417,13 @@
       "sourceUrl": "https://www.michigan.gov/mgcb/detroit-casinos/resources/revenues-and-wagering-tax-information",
       "dataPath": "data/mi/",
       "dateColumn": "Month",
-      "latestDate": "2026-03-01",
-      "periodCount": 63,
+      "latestDate": "2026-04-01",
+      "periodCount": 64,
       "latestData": {
-        "handle": 485132453.51,
-        "ggr": 50020977.25,
-        "holdPct": 0.1031,
-        "taxRevenue": 2287533.26
+        "handle": 460815960.49,
+        "ggr": 67626437.73,
+        "holdPct": 0.1468,
+        "taxRevenue": 2483483.0
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -668,5 +669,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-05-19T13:58:52Z"
+  "lastUpdated": "2026-05-20T13:41:16Z"
 }
