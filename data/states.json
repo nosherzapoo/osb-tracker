@@ -382,13 +382,13 @@
       "sourceUrl": "https://massgaming.com/regulations/revenue/",
       "dataPath": "data/ma/",
       "dateColumn": "Month",
-      "latestDate": "2026-03-01",
-      "periodCount": 39,
+      "latestDate": "2026-04-01",
+      "periodCount": 40,
       "latestData": {
-        "handle": 679776819.69,
-        "ggr": 65472073.05,
-        "holdPct": 0.0963,
-        "taxRevenue": 12726352.28
+        "handle": 656248443.44,
+        "ggr": 81090980.64,
+        "holdPct": 0.1236,
+        "taxRevenue": 15873114.5
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -445,13 +445,13 @@
       "sourceUrl": "https://www.msgamingcommission.com/reports/monthly_reports",
       "dataPath": "data/ms/",
       "dateColumn": "Month",
-      "latestDate": "2026-03-01",
-      "periodCount": 88,
+      "latestDate": "2026-04-01",
+      "periodCount": 89,
       "latestData": {
-        "handle": 25721106.04,
-        "ggr": 3583486.68,
-        "holdPct": 0.1393,
-        "taxRevenue": 430018.4
+        "handle": 18820340.06,
+        "ggr": 2852047.41,
+        "holdPct": 0.1515,
+        "taxRevenue": 342245.69
       },
       "hasAnnotations": false,
       "hasSportsData": true,
@@ -549,13 +549,13 @@
       "sourceUrl": "https://www.tn.gov/swac/reports.html",
       "dataPath": "data/tn/",
       "dateColumn": "Month",
-      "latestDate": "2026-03-01",
-      "periodCount": 65,
+      "latestDate": "2026-04-01",
+      "periodCount": 66,
       "latestData": {
-        "handle": 559556359.0,
+        "handle": 480805324.0,
         "ggr": null,
         "holdPct": null,
-        "taxRevenue": 10351793.0
+        "taxRevenue": 8894899.0
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -669,5 +669,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-05-20T13:41:16Z"
+  "lastUpdated": "2026-05-21T14:18:17Z"
 }
