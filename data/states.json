@@ -23,13 +23,13 @@
       "sourceUrl": "https://gaming.ny.gov/revenue-reports",
       "dataPath": "data/ny/",
       "dateColumn": "Week Ending",
-      "latestDate": "2026-05-17",
-      "periodCount": 228,
+      "latestDate": "2026-05-24",
+      "periodCount": 229,
       "latestData": {
-        "handle": 423404362.95,
-        "ggr": 52182658.55,
-        "holdPct": 0.1232,
-        "taxRevenue": 26613155.86
+        "handle": 486587288.82,
+        "ggr": 48099823.8,
+        "holdPct": 0.0989,
+        "taxRevenue": 24530910.14
       },
       "hasAnnotations": true,
       "hasSportsData": false,
@@ -479,13 +479,13 @@
       "sourceUrl": "https://www.rilot.com/en-us/about-us/financials.html",
       "dataPath": "data/ri/",
       "dateColumn": "Month",
-      "latestDate": "2026-03-01",
-      "periodCount": 77,
+      "latestDate": "2026-04-01",
+      "periodCount": 78,
       "latestData": {
-        "handle": 37246407.0,
-        "ggr": 2843476.0,
-        "holdPct": 0.0763,
-        "taxRevenue": 1450172.76
+        "handle": 32953246.0,
+        "ggr": 3831718.0,
+        "holdPct": 0.1163,
+        "taxRevenue": 1954176.18
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -507,13 +507,13 @@
       "sourceUrl": "https://dor.sd.gov/businesses/gaming/",
       "dataPath": "data/sd/",
       "dateColumn": "Month",
-      "latestDate": "2026-03-01",
-      "periodCount": 36,
+      "latestDate": "2026-04-01",
+      "periodCount": 37,
       "latestData": {
-        "handle": 1629620.4,
-        "ggr": 155779.88,
-        "holdPct": 0.0956,
-        "taxRevenue": 14020.19
+        "handle": 596884.16,
+        "ggr": 116694.63,
+        "holdPct": 0.1955,
+        "taxRevenue": 10502.52
       },
       "hasAnnotations": false,
       "hasSportsData": true,
@@ -669,5 +669,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-05-28T14:41:02Z"
+  "lastUpdated": "2026-05-29T14:02:45Z"
 }
