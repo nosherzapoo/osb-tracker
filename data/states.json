@@ -577,13 +577,13 @@
       "sourceUrl": "https://sportsbetmontana.com/en/view/news",
       "dataPath": "data/mt/",
       "dateColumn": "Month",
-      "latestDate": "2026-04-01",
-      "periodCount": 16,
+      "latestDate": "2026-05-01",
+      "periodCount": 17,
       "latestData": {
-        "handle": 5112520.0,
-        "ggr": 636755.0,
-        "holdPct": 0.1245,
-        "taxRevenue": 483379.0
+        "handle": 4814407.0,
+        "ggr": 477188.5,
+        "holdPct": 0.0991,
+        "taxRevenue": 332756.5
       },
       "hasAnnotations": false,
       "hasSportsData": true,
@@ -669,5 +669,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-06-02T14:54:21Z"
+  "lastUpdated": "2026-06-03T15:31:00Z"
 }
