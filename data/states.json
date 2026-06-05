@@ -655,13 +655,13 @@
       "sourceUrl": "https://www.delottery.com/Sports-Lottery/Monthly-Net-Proceeds",
       "dataPath": "data/de/",
       "dateColumn": "Month",
-      "latestDate": "2026-04-01",
-      "periodCount": 92,
+      "latestDate": "2026-05-01",
+      "periodCount": 93,
       "latestData": {
-        "handle": 17504205.0,
-        "ggr": 1503677.0,
-        "holdPct": 0.0859,
-        "taxRevenue": 774031.0
+        "handle": 18185343.0,
+        "ggr": 1191379.0,
+        "holdPct": 0.0655,
+        "taxRevenue": 618572.0
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -669,5 +669,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-06-04T14:02:00Z"
+  "lastUpdated": "2026-06-05T13:55:15Z"
 }
