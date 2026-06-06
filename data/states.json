@@ -281,13 +281,13 @@
       "sourceUrl": "https://irgc.iowa.gov/publications-reports/sports-wagering-revenue",
       "dataPath": "data/ia/",
       "dateColumn": "Month",
-      "latestDate": "2026-04-01",
-      "periodCount": 81,
+      "latestDate": "2026-05-01",
+      "periodCount": 82,
       "latestData": {
-        "handle": 210458291.1,
-        "ggr": 21855599.69,
-        "holdPct": 0.1038,
-        "taxRevenue": 1475252.98
+        "handle": 191112433.58,
+        "ggr": 20785834.86,
+        "holdPct": 0.1088,
+        "taxRevenue": 1403043.85
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -669,5 +669,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-06-05T13:55:15Z"
+  "lastUpdated": "2026-06-06T12:09:12Z"
 }
