@@ -175,18 +175,41 @@
       "taxRateNote": "8% retail, 10% mobile (blended ~10%)",
       "launchDate": "2021-09-09",
       "frequency": "monthly",
-      "hasOperatorData": false,
-      "operators": [],
+      "hasOperatorData": true,
+      "operators": [
+        "Bally Bet",
+        "Bet365",
+        "BetFred",
+        "BetMGM",
+        "Betway",
+        "Caesars",
+        "Desert Diamond",
+        "DraftKings",
+        "ESPN Bet",
+        "FanDuel",
+        "Fanatics",
+        "Fubo.TV",
+        "Golden Nugget",
+        "Plannatech",
+        "Rush Street Interactive",
+        "Sahara Bets",
+        "Seminole Hard Rock",
+        "Sporttrade",
+        "SuperBook",
+        "TwinSpires",
+        "Unibet",
+        "WynnBet"
+      ],
       "sourceUrl": "https://gaming.az.gov/resources/reports",
       "dataPath": "data/az/",
       "dateColumn": "Month",
-      "latestDate": "2025-11-01",
-      "periodCount": 23,
+      "latestDate": "2026-03-01",
+      "periodCount": 55,
       "latestData": {
-        "handle": 965233845.0,
-        "ggr": 80854981.0,
-        "holdPct": 0.0838,
-        "taxRevenue": 8085498.1
+        "handle": 836854391.84,
+        "ggr": 70852793.25,
+        "holdPct": 0.0847,
+        "taxRevenue": 7085279.32
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -669,5 +692,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-06-08T14:50:38Z"
+  "lastUpdated": "2026-06-09T13:48:26Z"
 }
