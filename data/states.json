@@ -345,13 +345,13 @@
       "sourceUrl": "https://www.maine.gov/dps/gcu/sports-wagering/sports-wagering-revenue",
       "dataPath": "data/me/",
       "dateColumn": "Month",
-      "latestDate": "2026-05-01",
-      "periodCount": 30,
+      "latestDate": "2026-06-01",
+      "periodCount": 31,
       "latestData": {
-        "handle": 202249404.99,
-        "ggr": 23814107.13,
-        "holdPct": 0.1177,
-        "taxRevenue": 2331981.41
+        "handle": 243219924.44,
+        "ggr": 28746976.59,
+        "holdPct": 0.1182,
+        "taxRevenue": 2815257.15
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -669,5 +669,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-06-10T14:25:47Z"
+  "lastUpdated": "2026-06-11T14:38:16Z"
 }
