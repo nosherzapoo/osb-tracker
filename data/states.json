@@ -87,13 +87,13 @@
       "sourceUrl": "https://gamingcontrolboard.pa.gov/news-and-transparency/revenue",
       "dataPath": "data/pa/",
       "dateColumn": "Month",
-      "latestDate": "2026-04-01",
-      "periodCount": 90,
+      "latestDate": "2026-05-01",
+      "periodCount": 91,
       "latestData": {
-        "handle": 641566629.92,
-        "ggr": 58953160.25,
-        "holdPct": 0.0919,
-        "taxRevenue": 21223137.71
+        "handle": 595569801.5,
+        "ggr": 52642686.27,
+        "holdPct": 0.0884,
+        "taxRevenue": 18951367.07
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -417,13 +417,13 @@
       "sourceUrl": "https://www.michigan.gov/mgcb/detroit-casinos/resources/revenues-and-wagering-tax-information",
       "dataPath": "data/mi/",
       "dateColumn": "Month",
-      "latestDate": "2026-04-01",
-      "periodCount": 64,
+      "latestDate": "2026-05-01",
+      "periodCount": 65,
       "latestData": {
-        "handle": 460815960.49,
-        "ggr": 67626437.73,
-        "holdPct": 0.1468,
-        "taxRevenue": 2483483.0
+        "handle": 457586181.52,
+        "ggr": 76699503.09,
+        "holdPct": 0.1676,
+        "taxRevenue": 2734472.56
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -669,5 +669,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-06-16T15:55:22Z"
+  "lastUpdated": "2026-06-17T14:30:01Z"
 }
