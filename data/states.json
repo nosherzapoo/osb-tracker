@@ -23,13 +23,13 @@
       "sourceUrl": "https://gaming.ny.gov/revenue-reports",
       "dataPath": "data/ny/",
       "dateColumn": "Week Ending",
-      "latestDate": "2026-06-07",
-      "periodCount": 231,
+      "latestDate": "2026-06-14",
+      "periodCount": 232,
       "latestData": {
-        "handle": 448604307.97,
-        "ggr": 34132529.47,
-        "holdPct": 0.0761,
-        "taxRevenue": 17407590.03
+        "handle": 587580123.31,
+        "ggr": -48515978.57,
+        "holdPct": -0.0826,
+        "taxRevenue": -24743149.07
       },
       "hasAnnotations": true,
       "hasSportsData": false,
@@ -669,5 +669,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-06-18T14:12:50Z"
+  "lastUpdated": "2026-06-19T14:17:50Z"
 }
