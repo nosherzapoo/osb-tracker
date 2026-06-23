@@ -382,13 +382,13 @@
       "sourceUrl": "https://massgaming.com/regulations/revenue/",
       "dataPath": "data/ma/",
       "dateColumn": "Month",
-      "latestDate": "2026-04-01",
-      "periodCount": 40,
+      "latestDate": "2026-05-01",
+      "periodCount": 41,
       "latestData": {
-        "handle": 656248443.44,
-        "ggr": 81090980.64,
-        "holdPct": 0.1236,
-        "taxRevenue": 15873114.5
+        "handle": 610939973.12,
+        "ggr": 70192397.43,
+        "holdPct": 0.1149,
+        "taxRevenue": 13726187.57
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -507,13 +507,13 @@
       "sourceUrl": "https://dor.sd.gov/businesses/gaming/",
       "dataPath": "data/sd/",
       "dateColumn": "Month",
-      "latestDate": "2026-04-01",
-      "periodCount": 37,
+      "latestDate": "2026-05-01",
+      "periodCount": 38,
       "latestData": {
-        "handle": 596884.16,
-        "ggr": 116694.63,
-        "holdPct": 0.1955,
-        "taxRevenue": 10502.52
+        "handle": 491137.73,
+        "ggr": 15407.74,
+        "holdPct": 0.0314,
+        "taxRevenue": 1386.7
       },
       "hasAnnotations": false,
       "hasSportsData": true,
@@ -524,6 +524,7 @@
         "MMA",
         "Motorsports",
         "NBA",
+        "NCAA Mens BB (",
         "NCAAB",
         "NCAAF",
         "NFL",
@@ -669,5 +670,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-06-22T15:54:40Z"
+  "lastUpdated": "2026-06-23T13:46:56Z"
 }
