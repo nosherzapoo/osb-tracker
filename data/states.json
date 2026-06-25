@@ -626,7 +626,7 @@
       "dataPath": "data/wy/",
       "dateColumn": "Month",
       "latestDate": "2025-12-01",
-      "periodCount": 35,
+      "periodCount": 36,
       "latestData": {
         "handle": 22414137.5,
         "ggr": 3325440.7,
@@ -670,5 +670,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-06-24T13:24:22Z"
+  "lastUpdated": "2026-06-25T13:18:09Z"
 }
