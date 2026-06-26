@@ -23,13 +23,13 @@
       "sourceUrl": "https://gaming.ny.gov/revenue-reports",
       "dataPath": "data/ny/",
       "dateColumn": "Week Ending",
-      "latestDate": "2026-06-14",
-      "periodCount": 232,
+      "latestDate": "2026-06-21",
+      "periodCount": 233,
       "latestData": {
-        "handle": 587580123.31,
-        "ggr": -48515978.57,
-        "holdPct": -0.0826,
-        "taxRevenue": -24743149.07
+        "handle": 551320172.49,
+        "ggr": 50756045.49,
+        "holdPct": 0.0921,
+        "taxRevenue": 25885583.2
       },
       "hasAnnotations": true,
       "hasSportsData": false,
@@ -307,13 +307,13 @@
       "sourceUrl": "https://lsp.org/about/leadershipsections/bureau-of-investigations/gaming-enforcement-division/gaming-revenue-reports/",
       "dataPath": "data/la/",
       "dateColumn": "Month",
-      "latestDate": "2026-04-01",
-      "periodCount": 55,
+      "latestDate": "2026-05-01",
+      "periodCount": 56,
       "latestData": {
-        "handle": 338029015.75,
-        "ggr": 45526151.51,
-        "holdPct": 0.1347,
-        "taxRevenue": 6828922.73
+        "handle": 317974369.23,
+        "ggr": 44796079.58,
+        "holdPct": 0.1409,
+        "taxRevenue": 6719411.94
       },
       "hasAnnotations": false,
       "hasSportsData": true,
@@ -670,5 +670,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-06-25T13:18:09Z"
+  "lastUpdated": "2026-06-26T13:13:08Z"
 }
