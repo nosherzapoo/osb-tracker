@@ -23,13 +23,13 @@
       "sourceUrl": "https://gaming.ny.gov/revenue-reports",
       "dataPath": "data/ny/",
       "dateColumn": "Week Ending",
-      "latestDate": "2026-06-21",
-      "periodCount": 233,
+      "latestDate": "2026-06-28",
+      "periodCount": 234,
       "latestData": {
-        "handle": 551320172.49,
-        "ggr": 50756045.49,
-        "holdPct": 0.0921,
-        "taxRevenue": 25885583.2
+        "handle": 512508333.13,
+        "ggr": 61849541.86,
+        "holdPct": 0.1207,
+        "taxRevenue": 31543266.35
       },
       "hasAnnotations": true,
       "hasSportsData": false,
@@ -340,13 +340,14 @@
         "Caesars",
         "DraftKings",
         "Oddfellahs",
-        "Oxford Sportsbook"
+        "Oxford Sportsbook",
+        "Penobscot"
       ],
       "sourceUrl": "https://www.maine.gov/dps/gcu/sports-wagering/sports-wagering-revenue",
       "dataPath": "data/me/",
       "dateColumn": "Month",
       "latestDate": "2026-06-01",
-      "periodCount": 31,
+      "periodCount": 33,
       "latestData": {
         "handle": 243219924.44,
         "ggr": 28746976.59,
@@ -578,13 +579,13 @@
       "sourceUrl": "https://sportsbetmontana.com/en/view/news",
       "dataPath": "data/mt/",
       "dateColumn": "Month",
-      "latestDate": "2026-05-01",
-      "periodCount": 17,
+      "latestDate": "2026-06-01",
+      "periodCount": 18,
       "latestData": {
-        "handle": 4814407.0,
-        "ggr": 477188.5,
-        "holdPct": 0.0991,
-        "taxRevenue": 332756.5
+        "handle": 4395167.0,
+        "ggr": 681456.0,
+        "holdPct": 0.155,
+        "taxRevenue": 549601.0
       },
       "hasAnnotations": false,
       "hasSportsData": true,
@@ -670,5 +671,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-07-02T13:00:18Z"
+  "lastUpdated": "2026-07-03T12:58:46Z"
 }
