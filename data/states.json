@@ -352,7 +352,7 @@
         "handle": 243219924.44,
         "ggr": 28746976.59,
         "holdPct": 0.1182,
-        "taxRevenue": 2815257.15
+        "taxRevenue": 2815257.14
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -481,7 +481,7 @@
       "dataPath": "data/ri/",
       "dateColumn": "Month",
       "latestDate": "2026-05-01",
-      "periodCount": 79,
+      "periodCount": 91,
       "latestData": {
         "handle": 31644950.0,
         "ggr": 2326410.0,
@@ -671,5 +671,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-07-07T13:22:06Z"
+  "lastUpdated": "2026-07-08T12:22:44Z"
 }
