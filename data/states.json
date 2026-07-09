@@ -551,13 +551,13 @@
       "sourceUrl": "https://www.tn.gov/swac/reports.html",
       "dataPath": "data/tn/",
       "dateColumn": "Month",
-      "latestDate": "2026-05-01",
-      "periodCount": 67,
+      "latestDate": "2026-06-01",
+      "periodCount": 68,
       "latestData": {
-        "handle": 443038330.0,
+        "handle": 456129258.0,
         "ggr": null,
         "holdPct": null,
-        "taxRevenue": 8196209.0
+        "taxRevenue": 8438391.0
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -671,5 +671,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-07-08T12:22:44Z"
+  "lastUpdated": "2026-07-09T13:51:55Z"
 }
