@@ -23,13 +23,13 @@
       "sourceUrl": "https://gaming.ny.gov/revenue-reports",
       "dataPath": "data/ny/",
       "dateColumn": "Week Ending",
-      "latestDate": "2026-06-28",
-      "periodCount": 234,
+      "latestDate": "2026-07-05",
+      "periodCount": 235,
       "latestData": {
-        "handle": 512508333.13,
-        "ggr": 61849541.86,
-        "holdPct": 0.1207,
-        "taxRevenue": 31543266.35
+        "handle": 548797511.92,
+        "ggr": 36510806.16,
+        "holdPct": 0.0665,
+        "taxRevenue": 18620511.14
       },
       "hasAnnotations": true,
       "hasSportsData": false,
@@ -281,13 +281,13 @@
       "sourceUrl": "https://irgc.iowa.gov/publications-reports/sports-wagering-revenue",
       "dataPath": "data/ia/",
       "dateColumn": "Month",
-      "latestDate": "2026-05-01",
-      "periodCount": 82,
+      "latestDate": "2026-06-01",
+      "periodCount": 83,
       "latestData": {
-        "handle": 191112433.58,
-        "ggr": 20785834.86,
-        "holdPct": 0.1088,
-        "taxRevenue": 1403043.85
+        "handle": 185417064.36,
+        "ggr": 16413988.01,
+        "holdPct": 0.0885,
+        "taxRevenue": 1107944.19
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -671,5 +671,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-07-10T13:13:26Z"
+  "lastUpdated": "2026-07-11T11:55:02Z"
 }
