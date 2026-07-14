@@ -339,18 +339,20 @@
       "operators": [
         "Caesars",
         "DraftKings",
-        "Oddfellahs"
+        "Oddfellahs",
+        "Oxford Sportsbook",
+        "Penobscot"
       ],
       "sourceUrl": "https://www.maine.gov/dps/gcu/sports-wagering/sports-wagering-revenue",
       "dataPath": "data/me/",
       "dateColumn": "Month",
       "latestDate": "2026-06-01",
-      "periodCount": 21,
+      "periodCount": 33,
       "latestData": {
-        "handle": 3112130.65,
-        "ggr": 245515.5,
-        "holdPct": 0.0789,
-        "taxRevenue": 23781.42
+        "handle": 243219924.44,
+        "ggr": 28746976.59,
+        "holdPct": 0.1182,
+        "taxRevenue": 2815257.14
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -669,5 +671,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-07-13T13:26:52Z"
+  "lastUpdated": "2026-07-14T12:12:35Z"
 }
