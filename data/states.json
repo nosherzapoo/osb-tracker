@@ -236,13 +236,13 @@
       "sourceUrl": "https://data.ct.gov/Government/Selected-Online-Sport-Wagering-Data/xf6g-659c",
       "dataPath": "data/ct/",
       "dateColumn": "Month",
-      "latestDate": "2026-05-01",
-      "periodCount": 56,
+      "latestDate": "2026-06-01",
+      "periodCount": 57,
       "latestData": {
-        "handle": 180762275.0,
-        "ggr": 18051714.0,
-        "holdPct": 0.0999,
-        "taxRevenue": 2482110.68
+        "handle": 197064668.0,
+        "ggr": 6314620.0,
+        "holdPct": 0.032,
+        "taxRevenue": 868260.25
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -446,13 +446,13 @@
       "sourceUrl": "https://www.msgamingcommission.com/reports/monthly_reports",
       "dataPath": "data/ms/",
       "dateColumn": "Month",
-      "latestDate": "2026-05-01",
-      "periodCount": 90,
+      "latestDate": "2026-06-01",
+      "periodCount": 91,
       "latestData": {
-        "handle": 17298052.13,
-        "ggr": 1935113.39,
-        "holdPct": 0.1119,
-        "taxRevenue": 232213.61
+        "handle": 19653728.55,
+        "ggr": 2360934.83,
+        "holdPct": 0.1201,
+        "taxRevenue": 283312.18
       },
       "hasAnnotations": false,
       "hasSportsData": true,
@@ -509,7 +509,7 @@
       "dataPath": "data/sd/",
       "dateColumn": "Month",
       "latestDate": "2026-05-01",
-      "periodCount": 38,
+      "periodCount": 34,
       "latestData": {
         "handle": 491137.73,
         "ggr": 15407.74,
@@ -671,5 +671,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-07-15T12:17:19Z"
+  "lastUpdated": "2026-07-16T12:23:43Z"
 }
