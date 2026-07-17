@@ -1,43 +1,6 @@
 {
   "states": [
     {
-      "code": "ny",
-      "name": "New York",
-      "abbreviation": "NY",
-      "taxRate": 0.51,
-      "taxRateNote": "Flat 51% on GGR",
-      "launchDate": "2022-01-08",
-      "frequency": "weekly",
-      "hasOperatorData": true,
-      "operators": [
-        "Bally Bet",
-        "BetMGM",
-        "Caesars",
-        "DraftKings",
-        "ESPN Bet",
-        "FanDuel",
-        "Fanatics",
-        "Resorts World Bet",
-        "Rush Street Interactive"
-      ],
-      "sourceUrl": "https://gaming.ny.gov/revenue-reports",
-      "dataPath": "data/ny/",
-      "dateColumn": "Week Ending",
-      "latestDate": "2026-07-05",
-      "periodCount": 235,
-      "latestData": {
-        "handle": 548797511.92,
-        "ggr": 36510806.16,
-        "holdPct": 0.0665,
-        "taxRevenue": 18620511.14
-      },
-      "hasAnnotations": true,
-      "hasSportsData": false,
-      "sports": [],
-      "ggrDefinition": "Gross Gaming Revenue as reported per operator (Handle \u2212 Payouts); no promo deductions allowed",
-      "hasMonthlyData": true
-    },
-    {
       "code": "nj",
       "name": "New Jersey",
       "abbreviation": "NJ",
@@ -307,13 +270,13 @@
       "sourceUrl": "https://lsp.org/about/leadershipsections/bureau-of-investigations/gaming-enforcement-division/gaming-revenue-reports/",
       "dataPath": "data/la/",
       "dateColumn": "Month",
-      "latestDate": "2026-05-01",
-      "periodCount": 56,
+      "latestDate": "2026-06-01",
+      "periodCount": 57,
       "latestData": {
-        "handle": 317974369.23,
-        "ggr": 44796079.58,
-        "holdPct": 0.1409,
-        "taxRevenue": 6719411.94
+        "handle": 306052728.56,
+        "ggr": 34780575.83,
+        "holdPct": 0.1136,
+        "taxRevenue": 5217086.37
       },
       "hasAnnotations": false,
       "hasSportsData": true,
@@ -509,7 +472,7 @@
       "dataPath": "data/sd/",
       "dateColumn": "Month",
       "latestDate": "2026-05-01",
-      "periodCount": 34,
+      "periodCount": 38,
       "latestData": {
         "handle": 491137.73,
         "ggr": 15407.74,
@@ -608,38 +571,6 @@
       "hasWeeklyData": true
     },
     {
-      "code": "wy",
-      "name": "Wyoming",
-      "abbreviation": "WY",
-      "taxRate": 0.1,
-      "taxRateNote": "10% on taxable gaming revenue (GGR minus promo deductions)",
-      "launchDate": "2021-09-01",
-      "frequency": "monthly",
-      "hasOperatorData": true,
-      "operators": [
-        "BetMGM",
-        "Caesars",
-        "DraftKings",
-        "FanDuel",
-        "Fanatics"
-      ],
-      "sourceUrl": "https://gaming.wyo.gov/revenue-reports/financial-reports/combined-wagering-activity-reports",
-      "dataPath": "data/wy/",
-      "dateColumn": "Month",
-      "latestDate": "2025-12-01",
-      "periodCount": 36,
-      "latestData": {
-        "handle": 22414137.5,
-        "ggr": 3325440.7,
-        "holdPct": 0.1484,
-        "taxRevenue": 270832.89
-      },
-      "hasAnnotations": false,
-      "hasSportsData": false,
-      "sports": [],
-      "ggrDefinition": "Gross Gaming Revenue (Handle minus Cash and Non-Cash Payouts)"
-    },
-    {
       "code": "de",
       "name": "Delaware",
       "abbreviation": "DE",
@@ -671,5 +602,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-07-16T12:23:43Z"
+  "lastUpdated": "2026-07-17T12:09:44Z"
 }
