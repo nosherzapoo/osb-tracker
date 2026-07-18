@@ -50,13 +50,13 @@
       "sourceUrl": "https://gamingcontrolboard.pa.gov/news-and-transparency/revenue",
       "dataPath": "data/pa/",
       "dateColumn": "Month",
-      "latestDate": "2026-05-01",
-      "periodCount": 91,
+      "latestDate": "2026-06-01",
+      "periodCount": 92,
       "latestData": {
-        "handle": 595569801.5,
-        "ggr": 52642686.27,
-        "holdPct": 0.0884,
-        "taxRevenue": 18951367.07
+        "handle": 570255551.54,
+        "ggr": 30962098.27,
+        "holdPct": 0.0543,
+        "taxRevenue": 11146355.4
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -309,13 +309,13 @@
       "sourceUrl": "https://www.maine.gov/dps/gcu/sports-wagering/sports-wagering-revenue",
       "dataPath": "data/me/",
       "dateColumn": "Month",
-      "latestDate": "2026-06-01",
-      "periodCount": 33,
+      "latestDate": "2026-07-01",
+      "periodCount": 34,
       "latestData": {
-        "handle": 243219924.44,
-        "ggr": 28746976.59,
-        "holdPct": 0.1182,
-        "taxRevenue": 2815257.14
+        "handle": 288063151.22,
+        "ggr": 33613166.53,
+        "holdPct": 0.1167,
+        "taxRevenue": 3290976.7
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -602,5 +602,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-07-17T12:09:44Z"
+  "lastUpdated": "2026-07-18T11:54:34Z"
 }
