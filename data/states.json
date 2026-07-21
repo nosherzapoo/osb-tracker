@@ -341,18 +341,18 @@
         "Fanatics",
         "MGM Springfield",
         "Plainridge Park Casino",
-        "theScore Bet"
+        "the Score Bet"
       ],
       "sourceUrl": "https://massgaming.com/regulations/revenue/",
       "dataPath": "data/ma/",
       "dateColumn": "Month",
-      "latestDate": "2026-05-01",
-      "periodCount": 41,
+      "latestDate": "2026-06-01",
+      "periodCount": 42,
       "latestData": {
-        "handle": 610939973.12,
-        "ggr": 70192397.43,
-        "holdPct": 0.1149,
-        "taxRevenue": 13726187.57
+        "handle": 593199593.18,
+        "ggr": 53663831.83,
+        "holdPct": 0.0905,
+        "taxRevenue": 10440759.9
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -602,5 +602,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-07-20T13:06:12Z"
+  "lastUpdated": "2026-07-21T12:25:37Z"
 }
