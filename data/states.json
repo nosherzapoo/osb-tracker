@@ -381,13 +381,13 @@
       "sourceUrl": "https://www.michigan.gov/mgcb/detroit-casinos/resources/revenues-and-wagering-tax-information",
       "dataPath": "data/mi/",
       "dateColumn": "Month",
-      "latestDate": "2026-05-01",
-      "periodCount": 65,
+      "latestDate": "2026-06-01",
+      "periodCount": 66,
       "latestData": {
-        "handle": 457586181.52,
-        "ggr": 76699503.09,
-        "holdPct": 0.1676,
-        "taxRevenue": 2734472.56
+        "handle": 366104743.6,
+        "ggr": 40121934.92,
+        "holdPct": 0.1096,
+        "taxRevenue": 1535613.25
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -588,13 +588,13 @@
       "sourceUrl": "https://www.delottery.com/Sports-Lottery/Monthly-Net-Proceeds",
       "dataPath": "data/de/",
       "dateColumn": "Month",
-      "latestDate": "2026-05-01",
-      "periodCount": 93,
+      "latestDate": "2026-06-01",
+      "periodCount": 94,
       "latestData": {
-        "handle": 18185343.0,
-        "ggr": 1191379.0,
-        "holdPct": 0.0655,
-        "taxRevenue": 618572.0
+        "handle": 18624571.0,
+        "ggr": 1250396.0,
+        "holdPct": 0.0671,
+        "taxRevenue": 648768.0
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -602,5 +602,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-07-21T12:25:37Z"
+  "lastUpdated": "2026-07-22T12:26:53Z"
 }
