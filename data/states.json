@@ -412,9 +412,9 @@
       "latestDate": "2026-06-01",
       "periodCount": 91,
       "latestData": {
-        "handle": 19653728.55,
+        "handle": 17053728.55,
         "ggr": 2360934.83,
-        "holdPct": 0.1201,
+        "holdPct": 0.1384,
         "taxRevenue": 283312.18
       },
       "hasAnnotations": false,
@@ -455,49 +455,6 @@
       "hasSportsData": false,
       "sports": [],
       "ggrDefinition": "Book Revenue (Write \u2212 Payouts)"
-    },
-    {
-      "code": "sd",
-      "name": "South Dakota",
-      "abbreviation": "SD",
-      "taxRate": 0.09,
-      "taxRateNote": "9% on adjusted gross revenue (all gaming combined)",
-      "launchDate": "2021-09-01",
-      "frequency": "monthly",
-      "hasOperatorData": false,
-      "operators": [
-        "total"
-      ],
-      "sourceUrl": "https://dor.sd.gov/businesses/gaming/",
-      "dataPath": "data/sd/",
-      "dateColumn": "Month",
-      "latestDate": "2026-06-01",
-      "periodCount": 39,
-      "latestData": {
-        "handle": 427086.34,
-        "ggr": 59066.41,
-        "holdPct": 0.1383,
-        "taxRevenue": 5315.98
-      },
-      "hasAnnotations": false,
-      "hasSportsData": true,
-      "sports": [
-        "Boxing",
-        "Golf",
-        "MLB",
-        "MMA",
-        "Motorsports",
-        "NBA",
-        "NCAA Mens BB (",
-        "NCAAB",
-        "NCAAF",
-        "NFL",
-        "NHL",
-        "Olympics",
-        "Soccer",
-        "Tennis"
-      ],
-      "ggrDefinition": "Statistical Win (Handle \u2212 Payouts)"
     },
     {
       "code": "tn",
@@ -602,5 +559,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-07-24T12:20:42Z"
+  "lastUpdated": "2026-07-25T12:04:43Z"
 }
