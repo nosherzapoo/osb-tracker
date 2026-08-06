@@ -500,6 +500,34 @@
       "ggrDefinition": "Statistical Win (Handle \u2212 Payouts)"
     },
     {
+      "code": "tn",
+      "name": "Tennessee",
+      "abbreviation": "TN",
+      "taxRate": 0.0185,
+      "taxRateNote": "1.85% on handle since Jul 2023; was 20% on AGI before",
+      "launchDate": "2020-11-01",
+      "frequency": "monthly",
+      "hasOperatorData": false,
+      "operators": [
+        "total"
+      ],
+      "sourceUrl": "https://www.tn.gov/swac/reports.html",
+      "dataPath": "data/tn/",
+      "dateColumn": "Month",
+      "latestDate": "2026-06-01",
+      "periodCount": 68,
+      "latestData": {
+        "handle": 456129258.0,
+        "ggr": null,
+        "holdPct": null,
+        "taxRevenue": 8438391.0
+      },
+      "hasAnnotations": false,
+      "hasSportsData": false,
+      "sports": [],
+      "ggrDefinition": "Adjusted Gross Income (pre-Jul 2023 only; not reported after)"
+    },
+    {
       "code": "mt",
       "name": "Montana",
       "abbreviation": "MT",
@@ -574,5 +602,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-08-05T12:52:40Z"
+  "lastUpdated": "2026-08-06T12:56:50Z"
 }
