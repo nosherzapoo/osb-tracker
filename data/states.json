@@ -199,13 +199,13 @@
       "sourceUrl": "https://data.ct.gov/Government/Selected-Online-Sport-Wagering-Data/xf6g-659c",
       "dataPath": "data/ct/",
       "dateColumn": "Month",
-      "latestDate": "2026-06-01",
-      "periodCount": 57,
+      "latestDate": "2026-07-01",
+      "periodCount": 58,
       "latestData": {
-        "handle": 197064668.0,
-        "ggr": 6314620.0,
-        "holdPct": 0.032,
-        "taxRevenue": 868260.25
+        "handle": 175654366.0,
+        "ggr": 15496715.0,
+        "holdPct": 0.0882,
+        "taxRevenue": 2130798.31
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -309,13 +309,13 @@
       "sourceUrl": "https://www.maine.gov/dps/gcu/sports-wagering/sports-wagering-revenue",
       "dataPath": "data/me/",
       "dateColumn": "Month",
-      "latestDate": "2026-07-01",
-      "periodCount": 34,
+      "latestDate": "2026-08-01",
+      "periodCount": 35,
       "latestData": {
-        "handle": 288063151.22,
-        "ggr": 33613166.53,
-        "holdPct": 0.1167,
-        "taxRevenue": 3290976.7
+        "handle": 339886357.27,
+        "ggr": 39440273.65,
+        "holdPct": 0.116,
+        "taxRevenue": 3861082.24
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -602,5 +602,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-08-17T11:24:35Z"
+  "lastUpdated": "2026-08-18T11:25:03Z"
 }
