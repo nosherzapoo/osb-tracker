@@ -50,13 +50,13 @@
       "sourceUrl": "https://gamingcontrolboard.pa.gov/news-and-transparency/revenue",
       "dataPath": "data/pa/",
       "dateColumn": "Month",
-      "latestDate": "2026-06-01",
-      "periodCount": 92,
+      "latestDate": "2026-07-01",
+      "periodCount": 93,
       "latestData": {
-        "handle": 570255551.54,
-        "ggr": 30962098.27,
-        "holdPct": 0.0543,
-        "taxRevenue": 11146355.4
+        "handle": 509536348.05,
+        "ggr": 51839587.89,
+        "holdPct": 0.1017,
+        "taxRevenue": 18662251.68
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -409,13 +409,13 @@
       "sourceUrl": "https://www.msgamingcommission.com/reports/monthly_reports",
       "dataPath": "data/ms/",
       "dateColumn": "Month",
-      "latestDate": "2026-06-01",
-      "periodCount": 91,
+      "latestDate": "2026-07-01",
+      "periodCount": 92,
       "latestData": {
-        "handle": 17053728.55,
-        "ggr": 2360934.83,
-        "holdPct": 0.1384,
-        "taxRevenue": 283312.18
+        "handle": 12998849.71,
+        "ggr": 1625019.54,
+        "holdPct": 0.125,
+        "taxRevenue": 195002.34
       },
       "hasAnnotations": false,
       "hasSportsData": true,
@@ -602,5 +602,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-08-19T11:24:20Z"
+  "lastUpdated": "2026-08-20T11:26:00Z"
 }
