@@ -270,13 +270,13 @@
       "sourceUrl": "https://lsp.org/about/leadershipsections/bureau-of-investigations/gaming-enforcement-division/gaming-revenue-reports/",
       "dataPath": "data/la/",
       "dateColumn": "Month",
-      "latestDate": "2026-06-01",
-      "periodCount": 57,
+      "latestDate": "2026-07-01",
+      "periodCount": 58,
       "latestData": {
-        "handle": 306052728.56,
-        "ggr": 34780575.83,
-        "holdPct": 0.1136,
-        "taxRevenue": 5217086.37
+        "handle": 279483467.5,
+        "ggr": 34635322.86,
+        "holdPct": 0.1239,
+        "taxRevenue": 5195298.43
       },
       "hasAnnotations": false,
       "hasSportsData": true,
@@ -341,18 +341,18 @@
         "Fanatics",
         "MGM Springfield",
         "Plainridge Park Casino",
-        "the Score Bet"
+        "theScore Bet"
       ],
       "sourceUrl": "https://massgaming.com/regulations/revenue/",
       "dataPath": "data/ma/",
       "dateColumn": "Month",
-      "latestDate": "2026-06-01",
-      "periodCount": 42,
+      "latestDate": "2027-07-01",
+      "periodCount": 44,
       "latestData": {
-        "handle": 593199593.18,
-        "ggr": 53663831.83,
-        "holdPct": 0.0905,
-        "taxRevenue": 10440759.9
+        "handle": 52791146.49,
+        "ggr": 6518544.14,
+        "holdPct": 0.1235,
+        "taxRevenue": 1277313.25
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -602,5 +602,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-08-20T11:26:00Z"
+  "lastUpdated": "2026-08-21T11:25:15Z"
 }
