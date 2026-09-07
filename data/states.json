@@ -528,49 +528,6 @@
       "ggrDefinition": "Adjusted Gross Income (pre-Jul 2023 only; not reported after)"
     },
     {
-      "code": "mt",
-      "name": "Montana",
-      "abbreviation": "MT",
-      "taxRate": 0.0,
-      "taxRateNote": "Lottery-operated; state revenue = GGR minus retailer commissions",
-      "launchDate": "2020-03-11",
-      "frequency": "monthly",
-      "hasOperatorData": false,
-      "operators": [
-        "total"
-      ],
-      "sourceUrl": "https://sportsbetmontana.com/en/view/news",
-      "dataPath": "data/mt/",
-      "dateColumn": "Month",
-      "latestDate": "2026-08-01",
-      "periodCount": 20,
-      "latestData": {
-        "handle": 3303144.0,
-        "ggr": 718500.0,
-        "holdPct": 0.2175,
-        "taxRevenue": 619406.0
-      },
-      "hasAnnotations": false,
-      "hasSportsData": true,
-      "sports": [
-        "Baseball",
-        "Basketball",
-        "Boxing",
-        "Football",
-        "Golf",
-        "Ice Hockey",
-        "MMA",
-        "NASCAR",
-        "Other",
-        "Soccer",
-        "Specials",
-        "Table Tennis",
-        "Tennis"
-      ],
-      "ggrDefinition": "Handle minus Payouts",
-      "hasWeeklyData": true
-    },
-    {
       "code": "de",
       "name": "Delaware",
       "abbreviation": "DE",
@@ -602,5 +559,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-09-06T13:59:02Z"
+  "lastUpdated": "2026-09-07T16:18:44Z"
 }
