@@ -270,13 +270,13 @@
       "sourceUrl": "https://lsp.org/about/leadershipsections/bureau-of-investigations/gaming-enforcement-division/gaming-revenue-reports/",
       "dataPath": "data/la/",
       "dateColumn": "Month",
-      "latestDate": "2026-07-01",
-      "periodCount": 58,
+      "latestDate": "2026-08-01",
+      "periodCount": 59,
       "latestData": {
-        "handle": 279483467.5,
-        "ggr": 34635322.86,
-        "holdPct": 0.1239,
-        "taxRevenue": 5195298.43
+        "handle": 272144214.59,
+        "ggr": 32811673.62,
+        "holdPct": 0.1206,
+        "taxRevenue": 4921751.04
       },
       "hasAnnotations": false,
       "hasSportsData": true,
@@ -559,5 +559,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-09-17T15:27:37Z"
+  "lastUpdated": "2026-09-18T14:47:42Z"
 }
