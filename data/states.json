@@ -347,12 +347,12 @@
       "dataPath": "data/ma/",
       "dateColumn": "Month",
       "latestDate": "2027-07-01",
-      "periodCount": 44,
+      "periodCount": 45,
       "latestData": {
-        "handle": 52791146.49,
-        "ggr": 6518544.14,
-        "holdPct": 0.1235,
-        "taxRevenue": 1277313.25
+        "handle": 210276910.59,
+        "ggr": 23764964.69,
+        "holdPct": 0.113,
+        "taxRevenue": 4651015.61
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -559,5 +559,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-09-21T16:48:39Z"
+  "lastUpdated": "2026-09-22T15:29:37Z"
 }
