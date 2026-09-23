@@ -199,13 +199,13 @@
       "sourceUrl": "https://data.ct.gov/Government/Selected-Online-Sport-Wagering-Data/xf6g-659c",
       "dataPath": "data/ct/",
       "dateColumn": "Month",
-      "latestDate": "2026-07-01",
-      "periodCount": 58,
+      "latestDate": "2026-08-01",
+      "periodCount": 59,
       "latestData": {
-        "handle": 175654366.0,
-        "ggr": 15496715.0,
-        "holdPct": 0.0882,
-        "taxRevenue": 2130798.31
+        "handle": 150783275.0,
+        "ggr": 12469659.0,
+        "holdPct": 0.0827,
+        "taxRevenue": 1714578.11
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -559,5 +559,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-09-22T15:29:37Z"
+  "lastUpdated": "2026-09-23T15:19:09Z"
 }
