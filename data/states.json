@@ -443,18 +443,61 @@
       "sourceUrl": "https://www.rilot.com/en-us/about-us/financials.html",
       "dataPath": "data/ri/",
       "dateColumn": "Month",
-      "latestDate": "2026-07-01",
-      "periodCount": 93,
+      "latestDate": "2026-08-01",
+      "periodCount": 94,
       "latestData": {
-        "handle": 24845527.0,
-        "ggr": 2977735.0,
-        "holdPct": 0.1198,
-        "taxRevenue": 1518644.85
+        "handle": 25934587.0,
+        "ggr": 1433445.0,
+        "holdPct": 0.0553,
+        "taxRevenue": 731056.95
       },
       "hasAnnotations": false,
       "hasSportsData": false,
       "sports": [],
       "ggrDefinition": "Book Revenue (Write \u2212 Payouts)"
+    },
+    {
+      "code": "sd",
+      "name": "South Dakota",
+      "abbreviation": "SD",
+      "taxRate": 0.09,
+      "taxRateNote": "9% on adjusted gross revenue (all gaming combined)",
+      "launchDate": "2021-09-01",
+      "frequency": "monthly",
+      "hasOperatorData": false,
+      "operators": [
+        "total"
+      ],
+      "sourceUrl": "https://dor.sd.gov/businesses/gaming/",
+      "dataPath": "data/sd/",
+      "dateColumn": "Month",
+      "latestDate": "2026-08-01",
+      "periodCount": 41,
+      "latestData": {
+        "handle": 346548.53,
+        "ggr": 62305.55,
+        "holdPct": 0.1798,
+        "taxRevenue": 5607.5
+      },
+      "hasAnnotations": false,
+      "hasSportsData": true,
+      "sports": [
+        "Boxing",
+        "Golf",
+        "MLB",
+        "MMA",
+        "Motorsports",
+        "NBA",
+        "NCAA Mens BB (",
+        "NCAAB",
+        "NCAAF",
+        "NFL",
+        "NHL",
+        "Olympics",
+        "Soccer",
+        "Tennis"
+      ],
+      "ggrDefinition": "Statistical Win (Handle \u2212 Payouts)"
     },
     {
       "code": "tn",
@@ -516,5 +559,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-09-28T18:26:58Z"
+  "lastUpdated": "2026-09-29T16:48:25Z"
 }
