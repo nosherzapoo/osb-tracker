@@ -244,13 +244,13 @@
       "sourceUrl": "https://irgc.iowa.gov/publications-reports/sports-wagering-revenue",
       "dataPath": "data/ia/",
       "dateColumn": "Month",
-      "latestDate": "2026-08-01",
-      "periodCount": 85,
+      "latestDate": "2026-09-01",
+      "periodCount": 86,
       "latestData": {
-        "handle": 185499357.28,
-        "ggr": 17115272.08,
-        "holdPct": 0.0923,
-        "taxRevenue": 1155280.87
+        "handle": 290239048.42,
+        "ggr": 23745911.47,
+        "holdPct": 0.0818,
+        "taxRevenue": 1602849.02
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -309,13 +309,13 @@
       "sourceUrl": "https://www.maine.gov/dps/gcu/sports-wagering/sports-wagering-revenue",
       "dataPath": "data/me/",
       "dateColumn": "Month",
-      "latestDate": "2026-09-01",
-      "periodCount": 36,
+      "latestDate": "2026-10-01",
+      "periodCount": 37,
       "latestData": {
-        "handle": 389187674.76,
-        "ggr": 43472806.65,
-        "holdPct": 0.1117,
-        "taxRevenue": 4252326.69
+        "handle": 450236010.37,
+        "ggr": 49963301.12,
+        "holdPct": 0.111,
+        "taxRevenue": 4886568.94
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -559,5 +559,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-10-09T17:19:43Z"
+  "lastUpdated": "2026-10-10T16:07:27Z"
 }
