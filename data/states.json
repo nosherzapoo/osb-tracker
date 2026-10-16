@@ -199,13 +199,13 @@
       "sourceUrl": "https://data.ct.gov/Government/Selected-Online-Sport-Wagering-Data/xf6g-659c",
       "dataPath": "data/ct/",
       "dateColumn": "Month",
-      "latestDate": "2026-08-01",
-      "periodCount": 59,
+      "latestDate": "2026-09-01",
+      "periodCount": 60,
       "latestData": {
-        "handle": 150783275.0,
-        "ggr": 12469659.0,
-        "holdPct": 0.0827,
-        "taxRevenue": 1714578.11
+        "handle": 238267029.0,
+        "ggr": 20877483.0,
+        "holdPct": 0.0876,
+        "taxRevenue": 2870653.91
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -256,71 +256,6 @@
       "hasSportsData": false,
       "sports": [],
       "ggrDefinition": "Sports Wagering Net Receipts (Handle \u2212 Payouts)"
-    },
-    {
-      "code": "la",
-      "name": "Louisiana",
-      "abbreviation": "LA",
-      "taxRate": 0.15,
-      "taxRateNote": "15% mobile, 10% retail on net proceeds",
-      "launchDate": "2021-10-31",
-      "frequency": "monthly",
-      "hasOperatorData": false,
-      "operators": [],
-      "sourceUrl": "https://lsp.org/about/leadershipsections/bureau-of-investigations/gaming-enforcement-division/gaming-revenue-reports/",
-      "dataPath": "data/la/",
-      "dateColumn": "Month",
-      "latestDate": "2026-08-01",
-      "periodCount": 59,
-      "latestData": {
-        "handle": 272144214.59,
-        "ggr": 32811673.62,
-        "holdPct": 0.1206,
-        "taxRevenue": 4921751.04
-      },
-      "hasAnnotations": false,
-      "hasSportsData": true,
-      "sports": [
-        "Baseball",
-        "Basketball",
-        "Football",
-        "Other",
-        "Parlay",
-        "Soccer"
-      ],
-      "ggrDefinition": "Net Proceeds (Handle \u2212 Payouts to bettors)"
-    },
-    {
-      "code": "me",
-      "name": "Maine",
-      "abbreviation": "ME",
-      "taxRate": 0.1,
-      "taxRateNote": "10% on adjusted gross receipts (AGR)",
-      "launchDate": "2023-12-01",
-      "frequency": "monthly",
-      "hasOperatorData": true,
-      "operators": [
-        "Caesars",
-        "DraftKings",
-        "Oddfellahs",
-        "Oxford Sportsbook",
-        "Penobscot"
-      ],
-      "sourceUrl": "https://www.maine.gov/dps/gcu/sports-wagering/sports-wagering-revenue",
-      "dataPath": "data/me/",
-      "dateColumn": "Month",
-      "latestDate": "2026-10-01",
-      "periodCount": 37,
-      "latestData": {
-        "handle": 450236010.37,
-        "ggr": 49963301.12,
-        "holdPct": 0.111,
-        "taxRevenue": 4886568.94
-      },
-      "hasAnnotations": false,
-      "hasSportsData": false,
-      "sports": [],
-      "ggrDefinition": "Wagers \u2212 Voided/Cancelled Wagers \u2212 Payouts"
     },
     {
       "code": "ma",
@@ -409,13 +344,13 @@
       "sourceUrl": "https://www.msgamingcommission.com/reports/monthly_reports",
       "dataPath": "data/ms/",
       "dateColumn": "Month",
-      "latestDate": "2026-08-01",
-      "periodCount": 93,
+      "latestDate": "2026-09-01",
+      "periodCount": 94,
       "latestData": {
-        "handle": 14072493.68,
-        "ggr": 2102515.41,
-        "holdPct": 0.1494,
-        "taxRevenue": 252301.85
+        "handle": 34049124.16,
+        "ggr": 3623916.47,
+        "holdPct": 0.1064,
+        "taxRevenue": 434869.98
       },
       "hasAnnotations": false,
       "hasSportsData": true,
@@ -559,5 +494,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-10-15T15:31:15Z"
+  "lastUpdated": "2026-10-16T15:12:31Z"
 }
