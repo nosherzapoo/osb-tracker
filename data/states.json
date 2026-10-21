@@ -282,7 +282,7 @@
       "dataPath": "data/ma/",
       "dateColumn": "Month",
       "latestDate": "2027-07-01",
-      "periodCount": 45,
+      "periodCount": 46,
       "latestData": {
         "handle": 210276910.59,
         "ggr": 23764964.69,
@@ -435,6 +435,34 @@
       "ggrDefinition": "Statistical Win (Handle \u2212 Payouts)"
     },
     {
+      "code": "tn",
+      "name": "Tennessee",
+      "abbreviation": "TN",
+      "taxRate": 0.0185,
+      "taxRateNote": "1.85% on handle since Jul 2023; was 20% on AGI before",
+      "launchDate": "2020-11-01",
+      "frequency": "monthly",
+      "hasOperatorData": false,
+      "operators": [
+        "total"
+      ],
+      "sourceUrl": "https://www.tn.gov/swac/reports.html",
+      "dataPath": "data/tn/",
+      "dateColumn": "Month",
+      "latestDate": "2026-09-01",
+      "periodCount": 71,
+      "latestData": {
+        "handle": 588615904.0,
+        "ggr": null,
+        "holdPct": null,
+        "taxRevenue": 10889394.0
+      },
+      "hasAnnotations": false,
+      "hasSportsData": false,
+      "sports": [],
+      "ggrDefinition": "Adjusted Gross Income (pre-Jul 2023 only; not reported after)"
+    },
+    {
       "code": "de",
       "name": "Delaware",
       "abbreviation": "DE",
@@ -466,5 +494,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-10-20T15:34:10Z"
+  "lastUpdated": "2026-10-21T15:50:40Z"
 }
