@@ -316,13 +316,13 @@
       "sourceUrl": "https://www.michigan.gov/mgcb/detroit-casinos/resources/revenues-and-wagering-tax-information",
       "dataPath": "data/mi/",
       "dateColumn": "Month",
-      "latestDate": "2026-08-01",
-      "periodCount": 68,
+      "latestDate": "2026-09-01",
+      "periodCount": 69,
       "latestData": {
-        "handle": 330491956.53,
-        "ggr": 34586306.9,
-        "holdPct": 0.1047,
-        "taxRevenue": 1612696.5
+        "handle": 544820665.86,
+        "ggr": 55507357.64,
+        "holdPct": 0.1019,
+        "taxRevenue": 1830373.98
       },
       "hasAnnotations": false,
       "hasSportsData": false,
@@ -494,5 +494,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-10-21T15:50:40Z"
+  "lastUpdated": "2026-10-22T15:48:40Z"
 }
