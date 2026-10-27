@@ -406,13 +406,13 @@
       "sourceUrl": "https://dor.sd.gov/businesses/gaming/",
       "dataPath": "data/sd/",
       "dateColumn": "Month",
-      "latestDate": "2026-08-01",
-      "periodCount": 41,
+      "latestDate": "2026-09-01",
+      "periodCount": 42,
       "latestData": {
-        "handle": 346548.53,
-        "ggr": 62305.55,
-        "holdPct": 0.1798,
-        "taxRevenue": 5607.5
+        "handle": 774836.84,
+        "ggr": 136514.44,
+        "holdPct": 0.1762,
+        "taxRevenue": 12286.3
       },
       "hasAnnotations": false,
       "hasSportsData": true,
@@ -494,5 +494,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-10-26T17:09:21Z"
+  "lastUpdated": "2026-10-27T16:13:00Z"
 }
