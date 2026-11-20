@@ -258,6 +258,39 @@
       "ggrDefinition": "Sports Wagering Net Receipts (Handle \u2212 Payouts)"
     },
     {
+      "code": "la",
+      "name": "Louisiana",
+      "abbreviation": "LA",
+      "taxRate": 0.15,
+      "taxRateNote": "15% mobile, 10% retail on net proceeds",
+      "launchDate": "2021-10-31",
+      "frequency": "monthly",
+      "hasOperatorData": false,
+      "operators": [],
+      "sourceUrl": "https://lsp.org/about/leadershipsections/bureau-of-investigations/gaming-enforcement-division/gaming-revenue-reports/",
+      "dataPath": "data/la/",
+      "dateColumn": "Month",
+      "latestDate": "2026-10-01",
+      "periodCount": 61,
+      "latestData": {
+        "handle": 450250559.86,
+        "ggr": 59357571.95,
+        "holdPct": 0.1318,
+        "taxRevenue": 8903635.79
+      },
+      "hasAnnotations": false,
+      "hasSportsData": true,
+      "sports": [
+        "Baseball",
+        "Basketball",
+        "Football",
+        "Other",
+        "Parlay",
+        "Soccer"
+      ],
+      "ggrDefinition": "Net Proceeds (Handle \u2212 Payouts to bettors)"
+    },
+    {
       "code": "ma",
       "name": "Massachusetts",
       "abbreviation": "MA",
@@ -282,7 +315,7 @@
       "dataPath": "data/ma/",
       "dateColumn": "Month",
       "latestDate": "2027-07-01",
-      "periodCount": 46,
+      "periodCount": 47,
       "latestData": {
         "handle": 210276910.59,
         "ggr": 23764964.69,
@@ -494,5 +527,5 @@
       "ggrDefinition": "Net Proceeds (Sports Sales minus Amount Won minus Vendor Fees)"
     }
   ],
-  "lastUpdated": "2026-11-19T19:22:02Z"
+  "lastUpdated": "2026-11-20T18:58:45Z"
 }
